@@ -47,7 +47,15 @@ var data = [
 		"Model": "EFFICIENT GRIP",
 		"price": "NONE",
 		"image": "images/245-45-17_GY.jpg"
+	},
+	{
+		"Size": "195/55R16",
+		"Brand": "GOODYEAR",
+		"Model": "Assurance TripleMax",
+		"price": "NONE",
+		"image": "images/195-55-16_GY.jpg"
 	}
+	
 ];
 
 var products = "",

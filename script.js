@@ -14,6 +14,13 @@ var data = [
 		"image": "images/165-65-14_GY.jpg"
 	},
 	{
+		"Size": "175/65R15",
+		"Brand": "MICHELIN",
+		"Model": "ENERGY XM2",
+		"price": "NONE",
+		"image": "images/175-65-15_MIC.jpg"
+	},
+	{
 		"Size": "185/65R15",
 		"Brand": "GOODYEAR",
 		"Model": "Assurance TripleMax",
@@ -35,6 +42,13 @@ var data = [
 		"image": "images/195-55-16_GY.jpg"
 	},
 	{
+		"Size": "195/55R16",
+		"Brand": "MICHELIN",
+		"Model": "PRIMACY 4ST",
+		"price": "NONE",
+		"image": "images/195-55-16_MIC.jpg"
+	},
+	{
 		"Size": "205/65R16",
 		"Brand": "GOODYEAR",
 		"Model": "Assurance TripleMax",
@@ -54,6 +68,13 @@ var data = [
 		"Model": "S-ATR",
 		"price": "NONE",
 		"image": "images/265-65-17_PIR.jpg"
+	},
+	{
+		"Size": "215/55R18",
+		"Brand": "GOODYEAR",
+		"Model": "EfficientGrip",
+		"price": "NONE",
+		"image": "images/215-55-18_GY.jpg"
 	},
 	{
 		"Size": "225/55R18",
@@ -84,20 +105,6 @@ var data = [
 		"image": "images/255-50-19_triangle.jpg"
 	},
 	{
-		"Size": "275/45R20",
-		"Brand": "TRIANGLE",
-		"Model": "SportX",
-		"price": "NONE",
-		"image": "images/275-45-20_triangle.jpeg"
-	},
-	{
-		"Size": "215/55R18",
-		"Brand": "GOODYEAR",
-		"Model": "EfficientGrip",
-		"price": "NONE",
-		"image": "images/215-55-18_GY.jpg"
-	},
-	{
 		"Size": "275/40R19",
 		"Brand": "MICHELIN",
 		"Model": "PILOT SPORT 4",
@@ -105,7 +112,14 @@ var data = [
 		"image": "images/275-40-19_MIC.jpg"
 	},
 	{
-		"Size": "175/65R15",
+		"Size": "275/45R20",
+		"Brand": "TRIANGLE",
+		"Model": "SportX",
+		"price": "NONE",
+		"image": "images/275-45-20_triangle.jpeg"
+	},
+	{
+		"Size": "D",
 		"Brand": "MICHELIN",
 		"Model": "ENERGY XM2",
 		"price": "NONE",

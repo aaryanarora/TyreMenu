@@ -1,10 +1,10 @@
 var data = [
 	{
-		"Size": "Gibson",
-		"Brand": "Les Paul",
-		"Model": "Electric",
-		"price": "Rs 3,000",
-		"image": "images/1st.jpeg"
+		"Size": "235/60R18",
+		"Brand": "BRIDGESTONE",
+		"Model": "ECOPIA EP850",
+		"price": "NONE",
+		"image": "images/235-60-18_BJS"
 	},
 	{
 		"Size": "Gibson",

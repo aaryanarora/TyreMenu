@@ -47,6 +47,13 @@ var data = [
 		"Model": "Acoustic",
 		"price": "Rs 2,500",
 		"image": "http://www.sweetwater.com/images/items/120/SSHBHCNP-medium.jpg?11fbea"
+	},
+	{
+		"Size": "72",
+		"Brand": "ummingbird",
+		"Model": "Acstic",
+		"price": "Rs 2,50000",
+		"image": "http://www.sweetwater.com/images/items/120/SSHBHCNP-medium.jpg?11fbea"
 	}
 ];
 

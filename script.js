@@ -103,6 +103,13 @@ var data = [
 		"Model": "PILOT SPORT 4",
 		"price": "NONE",
 		"image": "images/275-40-19_MIC.jpg"
+	},
+	{
+		"Size": "175/65R15",
+		"Brand": "MICHELIN",
+		"Model": "ENERGY XM2",
+		"price": "NONE",
+		"image": "images/175-65-15_MIC.jpg"
 	}
 	
 ];

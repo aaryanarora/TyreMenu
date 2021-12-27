@@ -61,6 +61,13 @@ var data = [
 		"Model": "DP SERIES",
 		"price": "NONE",
 		"image": "images/165-65-14_GY.jpg"
+	},
+	{
+		"Size": "205/65R16",
+		"Brand": "GOODYEAR",
+		"Model": "Assurance TripleMax",
+		"price": "NONE",
+		"image": "images/205-65-16_GY.jpg"
 	}
 	
 ];

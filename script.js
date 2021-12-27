@@ -7,6 +7,55 @@ var data = [
 		"image": "images/145-80-13_BJS.jpeg"
 	},
 	{
+		"Size": "165/65R14",
+		"Brand": "GOODYEAR",
+		"Model": "DP SERIES",
+		"price": "NONE",
+		"image": "images/165-65-14_GY.jpg"
+	},
+	{
+		"Size": "185/65R15",
+		"Brand": "GOODYEAR",
+		"Model": "Assurance TripleMax",
+		"price": "NONE",
+		"image": "images/185-65-15_GY.jpg"
+	},
+	{
+		"Size": "195/65R15",
+		"Brand": "YOKOHAMA",
+		"Model": "BLUEARTH-GT",
+		"price": "NONE",
+		"image": "images/195-65-15_YOKO.jpg"
+	},
+	{
+		"Size": "195/55R16",
+		"Brand": "GOODYEAR",
+		"Model": "Assurance TripleMax",
+		"price": "NONE",
+		"image": "images/195-55-16_GY.jpg"
+	},
+	{
+		"Size": "205/65R16",
+		"Brand": "GOODYEAR",
+		"Model": "Assurance TripleMax",
+		"price": "NONE",
+		"image": "images/205-65-16_GY.jpg"
+	},
+	{
+		"Size": "245/45R17",
+		"Brand": "GOODYEAR",
+		"Model": "EFFICIENT GRIP",
+		"price": "NONE",
+		"image": "images/245-45-17_GY.jpg"
+	},
+	{
+		"Size": "265/65R17",
+		"Brand": "PIRELLI",
+		"Model": "S-ATR",
+		"price": "NONE",
+		"image": "images/265-65-17_PIR.jpg"
+	},
+	{
 		"Size": "225/55R18",
 		"Brand": "BRIDGESTONE",
 		"Model": "TURANZA T001",
@@ -28,48 +77,6 @@ var data = [
 		"image": "images/235-55-19_YOKO.jpeg"
 	},
 	{
-		"Size": "275/45R20",
-		"Brand": "TRIANGLE",
-		"Model": "SportX",
-		"price": "NONE",
-		"image": "images/275-45-20_triangle.jpeg"
-	},
-	{
-		"Size": "195/65R15",
-		"Brand": "YOKOHAMA",
-		"Model": "BLUEARTH-GT",
-		"price": "NONE",
-		"image": "images/195-65-15_YOKO.jpg"
-	},
-	{
-		"Size": "245/45R17",
-		"Brand": "GOODYEAR",
-		"Model": "EFFICIENT GRIP",
-		"price": "NONE",
-		"image": "images/245-45-17_GY.jpg"
-	},
-	{
-		"Size": "195/55R16",
-		"Brand": "GOODYEAR",
-		"Model": "Assurance TripleMax",
-		"price": "NONE",
-		"image": "images/195-55-16_GY.jpg"
-	},
-	{
-		"Size": "165/65R14",
-		"Brand": "GOODYEAR",
-		"Model": "DP SERIES",
-		"price": "NONE",
-		"image": "images/165-65-14_GY.jpg"
-	},
-	{
-		"Size": "205/65R16",
-		"Brand": "GOODYEAR",
-		"Model": "Assurance TripleMax",
-		"price": "NONE",
-		"image": "images/205-65-16_GY.jpg"
-	},
-	{
 		"Size": "255/50R19",
 		"Brand": "TRIANGLE",
 		"Model": "SportX",
@@ -77,14 +84,14 @@ var data = [
 		"image": "images/255-50-19_triangle.jpg"
 	},
 	{
-		"Size": "265/65R17",
-		"Brand": "PIRELLI",
-		"Model": "S-ATR",
+		"Size": "275/45R20",
+		"Brand": "TRIANGLE",
+		"Model": "SportX",
 		"price": "NONE",
-		"image": "images/265-65-17_PIR.jpg"
+		"image": "images/275-45-20_triangle.jpeg"
 	},
 	{
-		"Size": "185/65R15",
+		"Size": "d",
 		"Brand": "GOODYEAR",
 		"Model": "Assurance TripleMax",
 		"price": "NONE",

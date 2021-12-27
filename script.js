@@ -35,11 +35,11 @@ var data = [
 		"image": "images/225-55-18_BJS.jpeg"
 	},
 	{
-		"Size": "Paul Reed Smith",
-		"Brand": "Custom 24",
-		"Model": "Electric",
-		"price": "Rs 5,000",
-		"image": "http://www.sweetwater.com/images/items/120/HBII10BGWB-medium.jpg?982763"
+		"Size": "195/65R15",
+		"Brand": "YOKOHAMA",
+		"Model": "BLUEARTH-GT",
+		"price": "NONE",
+		"image": "images/195-65-15_YOKO.jpg"
 	},
 	{
 		"Size": "Gibson",

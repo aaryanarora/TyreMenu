@@ -91,11 +91,11 @@ var data = [
 		"image": "images/275-45-20_triangle.jpeg"
 	},
 	{
-		"Size": "d",
+		"Size": "215/55R18",
 		"Brand": "GOODYEAR",
-		"Model": "Assurance TripleMax",
+		"Model": "EfficientGrip",
 		"price": "NONE",
-		"image": "images/185-65-15_GY.jpg"
+		"image": "images/215-55-18_GY.jpg"
 	}
 	
 ];

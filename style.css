@@ -12,6 +12,9 @@ body {
 	height: 19rem;
 	width: 13rem;
 }
+a{
+	text-decoration: none;
+}
 .con{
 	font-size: 2rem;
 	font-family: Arial, Helvetica, sans-serif;

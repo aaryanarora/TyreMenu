@@ -54,6 +54,13 @@ var data = [
 		"Model": "Assurance TripleMax",
 		"price": "NONE",
 		"image": "images/195-55-16_GY.jpg"
+	},
+	{
+		"Size": "165/65R14",
+		"Brand": "GOODYEAR",
+		"Model": "DP SERIES",
+		"price": "NONE",
+		"image": "images/165-65-14_GY.jpg"
 	}
 	
 ];

@@ -21,11 +21,11 @@ var data = [
 		"image": "images/275-45-20_triangle.jpeg"
 	},
 	{
-		"Size": "Fender",
-		"Brand": "Telecaster",
-		"Model": "Electric",
-		"price": "Rs 2,000",
-		"image": "images/4th.jpeg"
+		"Size": "235/55R19",
+		"Brand": "YOKOHAMA",
+		"Model": "GEOLANDER",
+		"price": "NONE",
+		"image": "images/235-55-19_YOKO.jpeg"
 	},
 	{
 		"Size": "Gretsch",

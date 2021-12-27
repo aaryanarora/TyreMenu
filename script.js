@@ -1,53 +1,61 @@
 var data = [
 	{
-		"Size": "Gibson",
-		"Brand": "Les Paul",
-		"Model": "Electric",
-		"price": "Rs 3,000",
-		"image": "images/1st.jpeg"
+		"Size": "235/60R18",
+		"Brand": "BRIDGESTONE",
+		"Model": "ECOPIA EP850",
+		"price": "NONE",
+		"image": "images/235-60-18_BJS.jpeg"
 	},
 	{
-		"Size": "Gibson",
-		"Brand": "SG",
-		"Model": "Electric",
-		"price": "Rs 1,500",
-		"image": "images/2nd.jpeg"
+		"Size": "145/80R13",
+		"Brand": "BRIDGESTONE",
+		"Model": "B290",
+		"price": "NONE",
+		"image": "images/145-80-13_BJS.jpeg"
 	},
 	{
-		"Size": "Fender",
-		"Brand": "Telecaster",
-		"Model": "Electric",
-		"price": "Rs 2,000",
-		"image": "images/3rd.jpeg"
+		"Size": "275/45R20",
+		"Brand": "TRIANGLE",
+		"Model": "SportX",
+		"price": "NONE",
+		"image": "images/275-45-20_triangle.jpeg"
 	},
 	{
-		"Size": "Fender",
-		"Brand": "Telecaster",
-		"Model": "Electric",
-		"price": "Rs 2,000",
-		"image": "images/4th.jpeg"
+		"Size": "235/55R19",
+		"Brand": "YOKOHAMA",
+		"Model": "GEOLANDER",
+		"price": "NONE",
+		"image": "images/235-55-19_YOKO.jpeg"
 	},
 	{
-		"Size": "Gretsch",
-		"Brand": "White Falcon",
-		"Model": "Electric",
-		"price": "Rs 5,000",
-		"image": "images/5th.jpeg"
+		"Size": "225/55R18",
+		"Brand": "BRIDGESTONE",
+		"Model": "TURANZA T001",
+		"price": "NONE",
+		"image": "images/225-55-18_BJS.jpeg"
 	},
 	{
-		"Size": "Paul Reed Smith",
-		"Brand": "Custom 24",
-		"Model": "Electric",
-		"price": "Rs 5,000",
-		"image": "http://www.sweetwater.com/images/items/120/HBII10BGWB-medium.jpg?982763"
+		"Size": "195/65R15",
+		"Brand": "YOKOHAMA",
+		"Model": "BLUEARTH-GT",
+		"price": "NONE",
+		"image": "images/195-65-15_YOKO.jpg"
 	},
 	{
-		"Size": "Gibson",
-		"Brand": "Hummingbird",
-		"Model": "Acoustic",
-		"price": "Rs 2,500",
-		"image": "http://www.sweetwater.com/images/items/120/SSHBHCNP-medium.jpg?11fbea"
+		"Size": "245/45R17",
+		"Brand": "GOODYEAR",
+		"Model": "EFFICIENT GRIP",
+		"price": "NONE",
+		"image": "images/245-45-17_GY.jpg"
+	},
+	{
+		"Size": "195/55R16",
+		"Brand": "GOODYEAR",
+		"Model": "Assurance TripleMax",
+		"price": "NONE",
+		"image": "images/195-55-16_GY.jpg"
 	}
+	
 ];
 
 var products = "",

@@ -82,6 +82,13 @@ var data = [
 		"Model": "S-ATR",
 		"price": "NONE",
 		"image": "images/265-65-17_PIR.jpg"
+	},
+	{
+		"Size": "185/65R15",
+		"Brand": "GOODYEAR",
+		"Model": "Assurance TripleMax",
+		"price": "NONE",
+		"image": "images/185-65-15_GY.jpg"
 	}
 	
 ];

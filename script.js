@@ -75,6 +75,13 @@ var data = [
 		"Model": "SportX",
 		"price": "NONE",
 		"image": "images/255-50-19_triangle.jpg"
+	},
+	{
+		"Size": "265/65R17",
+		"Brand": "PIRELLI",
+		"Model": "S-ATR",
+		"price": "NONE",
+		"image": "images/265-65-17_PIR.jpg"
 	}
 	
 ];

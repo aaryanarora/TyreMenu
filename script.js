@@ -32,7 +32,7 @@ var data = [
 		"Brand": "White Falcon",
 		"Model": "Electric",
 		"price": "Rs 5,000",
-		"image": "http://www.sweetwater.com/images/items/120/G613655GE-medium.jpg?9bfb0e"
+		"image": "../images/5th.jpeg"
 	},
 	{
 		"Size": "Paul Reed Smith",

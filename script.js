@@ -1,12 +1,5 @@
 var data = [
 	{
-		"Size": "235/60R18",
-		"Brand": "BRIDGESTONE",
-		"Model": "ECOPIA EP850",
-		"price": "NONE",
-		"image": "images/235-60-18_BJS.jpeg"
-	},
-	{
 		"Size": "145/80R13",
 		"Brand": "BRIDGESTONE",
 		"Model": "B290",
@@ -14,11 +7,18 @@ var data = [
 		"image": "images/145-80-13_BJS.jpeg"
 	},
 	{
-		"Size": "275/45R20",
-		"Brand": "TRIANGLE",
-		"Model": "SportX",
+		"Size": "225/55R18",
+		"Brand": "BRIDGESTONE",
+		"Model": "TURANZA T001",
 		"price": "NONE",
-		"image": "images/275-45-20_triangle.jpeg"
+		"image": "images/225-55-18_BJS.jpeg"
+	},
+	{
+		"Size": "235/60R18",
+		"Brand": "BRIDGESTONE",
+		"Model": "ECOPIA EP850",
+		"price": "NONE",
+		"image": "images/235-60-18_BJS.jpeg"
 	},
 	{
 		"Size": "235/55R19",
@@ -28,11 +28,11 @@ var data = [
 		"image": "images/235-55-19_YOKO.jpeg"
 	},
 	{
-		"Size": "225/55R18",
-		"Brand": "BRIDGESTONE",
-		"Model": "TURANZA T001",
+		"Size": "275/45R20",
+		"Brand": "TRIANGLE",
+		"Model": "SportX",
 		"price": "NONE",
-		"image": "images/225-55-18_BJS.jpeg"
+		"image": "images/275-45-20_triangle.jpeg"
 	},
 	{
 		"Size": "195/65R15",

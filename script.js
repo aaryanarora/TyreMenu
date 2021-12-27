@@ -42,11 +42,11 @@ var data = [
 		"image": "images/195-65-15_YOKO.jpg"
 	},
 	{
-		"Size": "Gibson",
-		"Brand": "Hummingbird",
-		"Model": "Acoustic",
-		"price": "Rs 2,500",
-		"image": "http://www.sweetwater.com/images/items/120/SSHBHCNP-medium.jpg?11fbea"
+		"Size": "245/45R17",
+		"Brand": "GOODYEAR",
+		"Model": "EFFICIENT GRIP",
+		"price": "NONE",
+		"image": "images/245-45-17_GY.jpg"
 	}
 ];
 

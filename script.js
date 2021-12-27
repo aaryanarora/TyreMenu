@@ -14,11 +14,11 @@ var data = [
 		"image": "images/145-80-13_BJS.jpeg"
 	},
 	{
-		"Size": "Fender",
-		"Brand": "Telecaster",
-		"Model": "Electric",
-		"price": "Rs 2,000",
-		"image": "images/3rd.jpeg"
+		"Size": "275/45R20",
+		"Brand": "TRIANGLE",
+		"Model": "SportX",
+		"price": "NONE",
+		"image": "images/275-45-20_triangle.jpeg"
 	},
 	{
 		"Size": "Fender",

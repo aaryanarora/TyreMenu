@@ -4,35 +4,35 @@ var data = [
 		"Brand": "Les Paul",
 		"Model": "Electric",
 		"price": "Rs 3,000",
-		"image": "../images/1st.jpeg"
+		"image": "images/1st.jpeg"
 	},
 	{
 		"Size": "Gibson",
 		"Brand": "SG",
 		"Model": "Electric",
 		"price": "Rs 1,500",
-		"image": "../images/2nd.jpeg"
+		"image": "images/2nd.jpeg"
 	},
 	{
 		"Size": "Fender",
 		"Brand": "Telecaster",
 		"Model": "Electric",
 		"price": "Rs 2,000",
-		"image": "../images/3rd.jpeg"
+		"image": "images/3rd.jpeg"
 	},
 	{
 		"Size": "Fender",
 		"Brand": "Telecaster",
 		"Model": "Electric",
 		"price": "Rs 2,000",
-		"image": "../images/4th.jpeg"
+		"image": "images/4th.jpeg"
 	},
 	{
 		"Size": "Gretsch",
 		"Brand": "White Falcon",
 		"Model": "Electric",
 		"price": "Rs 5,000",
-		"image": "../images/5th.jpeg"
+		"image": "images/5th.jpeg"
 	},
 	{
 		"Size": "Paul Reed Smith",

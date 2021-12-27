@@ -68,6 +68,13 @@ var data = [
 		"Model": "Assurance TripleMax",
 		"price": "NONE",
 		"image": "images/205-65-16_GY.jpg"
+	},
+	{
+		"Size": "255/50R19",
+		"Brand": "TRIANGLE",
+		"Model": "SportX",
+		"price": "NONE",
+		"image": "images/255-50-19_triangle.jpg"
 	}
 	
 ];

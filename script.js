@@ -28,11 +28,11 @@ var data = [
 		"image": "images/235-55-19_YOKO.jpeg"
 	},
 	{
-		"Size": "Gretsch",
-		"Brand": "White Falcon",
-		"Model": "Electric",
-		"price": "Rs 5,000",
-		"image": "images/5th.jpeg"
+		"Size": "225/55R18",
+		"Brand": "BRIDGESTONE",
+		"Model": "TURANZA T001",
+		"price": "NONE",
+		"image": "images/225-55-18_BJS.jpeg"
 	},
 	{
 		"Size": "Paul Reed Smith",

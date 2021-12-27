@@ -4,14 +4,14 @@ var data = [
 		"Brand": "BRIDGESTONE",
 		"Model": "ECOPIA EP850",
 		"price": "NONE",
-		"image": "images/235-60-18_BJS"
+		"image": "images/235-60-18_BJS.jpeg"
 	},
 	{
-		"Size": "Gibson",
-		"Brand": "SG",
-		"Model": "Electric",
-		"price": "Rs 1,500",
-		"image": "images/2nd.jpeg"
+		"Size": "145/80R13",
+		"Brand": "BRIDGESTONE",
+		"Model": "B290",
+		"price": "NONE",
+		"image": "images/145-80-13_BJS.jpeg"
 	},
 	{
 		"Size": "Fender",

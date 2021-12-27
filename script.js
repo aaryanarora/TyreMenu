@@ -96,6 +96,13 @@ var data = [
 		"Model": "EfficientGrip",
 		"price": "NONE",
 		"image": "images/215-55-18_GY.jpg"
+	},
+	{
+		"Size": "275/40R19",
+		"Brand": "MICHELIN",
+		"Model": "PILOT SPORT 4",
+		"price": "NONE",
+		"image": "images/275-40-19_MIC.jpg"
 	}
 	
 ];

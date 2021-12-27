@@ -4,28 +4,28 @@ var data = [
 		"Brand": "Les Paul",
 		"Model": "Electric",
 		"price": "Rs 3,000",
-		"image": "http://www.sweetwater.com/images/items/120/LPST5HTHDCH-medium.jpg?9782bd"
+		"image": "../images/1st.jpeg"
 	},
 	{
 		"Size": "Gibson",
 		"Brand": "SG",
 		"Model": "Electric",
 		"price": "Rs 1,500",
-		"image": "http://www.sweetwater.com/images/items/120/SGSEBCH-medium.jpg?e69cfe"
+		"image": "../images/2nd.jpeg"
 	},
 	{
 		"Size": "Fender",
 		"Brand": "Telecaster",
 		"Model": "Electric",
 		"price": "Rs 2,000",
-		"image": "http://www.sweetwater.com/images/items/120/TelePLMPHB-medium.jpg?28e48b"
+		"image": "../images/3rd.jpeg"
 	},
 	{
 		"Size": "Fender",
 		"Brand": "Telecaster",
 		"Model": "Electric",
 		"price": "Rs 2,000",
-		"image": "http://www.sweetwater.com/images/items/120/StratAMM3SB2-medium.jpg?dfd0a9"
+		"image": "../images/4th.jpeg"
 	},
 	{
 		"Size": "Gretsch",
@@ -47,13 +47,6 @@ var data = [
 		"Model": "Acoustic",
 		"price": "Rs 2,500",
 		"image": "http://www.sweetwater.com/images/items/120/SSHBHCNP-medium.jpg?11fbea"
-	},
-	{
-		"Size": "72",
-		"Brand": "ummingbird",
-		"Model": "Acstic",
-		"price": "Rs 2,50000",
-		"image": "http://www.sweetwater.com/images/items/120/SSHBHCNP-medium.jpg?11fbea"
 	}
 ];
 
@@ -72,7 +65,7 @@ for (var i = 0; i < data.length; i++) {
 		image = data[i].image;
 	
 	//create product cards
-	products += "<div class='col-sm-4 product' data-Size='" + Size + "' data-Brand='" + Brand + "' data-Model='" + Model + "' data-price='" + rawPrice + "'><div class='product-inner text-center'><img src='" + image + "'><br />Size: " + Size + "<br />Brand: " + Brand + "<br />Model: " + Model + "<br />Price: " + price + "</div></div>";
+	products += "<div class='col-sm-4 product' data-Size='" + Size + "' data-Brand='" + Brand + "' data-Model='" + Model + "' data-price='" + rawPrice + "'><div class='product-inner text-center'><img class='pp' src='" + image + "'><br />Size: " + Size + "<br />Brand: " + Brand + "<br />Model: " + Model + "<br />Price: " + price + "</div></div>";
 	
 	//create dropdown of makes
 	if (Sizes.indexOf("<option value='" + Size + "'>" + Size + "</option>") == -1) {

@@ -112,6 +112,13 @@ var data = [
 		"image": "images/225-55-18_BJS.jpeg"
 	},
 	{
+		"Size": "235/50R18",
+		"Brand": "BRIDGESTONE",
+		"Model": "DUELER H/P SPORT",
+		"price": "NONE",
+		"image": "images/235-50-18_BJS.jpeg"
+	},
+	{
 		"Size": "235/60R18",
 		"Brand": "BRIDGESTONE",
 		"Model": "ECOPIA EP850",
@@ -124,6 +131,13 @@ var data = [
 		"Model": "PILOT SPORT 4 SUV",
 		"price": "NONE",
 		"image": "images/255-55-18_MIC.jpeg"
+	},
+	{
+		"Size": "235/50R19",
+		"Brand": "PIRELLI",
+		"Model": "P-ZERO PZ4",
+		"price": "NONE",
+		"image": "images/235-50-19_PIR.jpeg"
 	},
 	{
 		"Size": "235/55R19",

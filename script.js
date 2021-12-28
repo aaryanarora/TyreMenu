@@ -182,6 +182,13 @@ var data = [
 		"image": "images/235-60-18_BJS.jpeg"
 	},
 	{
+		"Size": "245/40R18",
+		"Brand": "PIRELLI",
+		"Model": "P-ZERO PZ4",
+		"price": "NONE",
+		"image": "images/245-40-18_PIR.jpeg"
+	},
+	{
 		"Size": "255/55R18",
 		"Brand": "MICHELIN",
 		"Model": "PILOT SPORT 4 SUV",
@@ -271,6 +278,13 @@ var data = [
 		"Model": "SportX",
 		"price": "NONE",
 		"image": "images/275-45-20_triangle.jpeg"
+	},
+	{
+		"Size": "285/45R21",
+		"Brand": "PIRELLI",
+		"Model": "SCORPION ZERO ASIM",
+		"price": "NONE",
+		"image": "images/285-45-21_PIR.jpeg"
 	},
 	{
 		"Size": "D",

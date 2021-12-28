@@ -476,6 +476,34 @@ var data = [
 		"image": "images/245-40-18_BJS.jpeg"
 	},
 	{
+		"Size": "245/45R18",
+		"Brand": "PIRELLI",
+		"Model": "P7 CINTURATO (*)(MOE)",
+		"price": "NONE",
+		"image": "images/245-45-18_PIR_CINT.jpeg"
+	},
+	{
+		"Size": "245/45R18",
+		"Brand": "PIRELLI",
+		"Model": "P-ZERO PZ4 (*)",
+		"price": "NONE",
+		"image": "images/245-45-18_PIR.jpeg"
+	},
+	{
+		"Size": "245/45R18",
+		"Brand": "BRIDGESTONE",
+		"Model": "T05A",
+		"price": "NONE",
+		"image": "images/245-45-18_BJS.jpeg"
+	},
+	{
+		"Size": "245/45R18",
+		"Brand": "MICHELIN",
+		"Model": "PRIMACY 4ST",
+		"price": "NONE",
+		"image": "images/245-45-18_MIC.jpeg"
+	},
+	{
 		"Size": "255/55R18",
 		"Brand": "MICHELIN",
 		"Model": "PILOT SPORT 4 SUV",

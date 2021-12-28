@@ -197,6 +197,20 @@ var data = [
 	},
 	{
 		"Size": "275/45R20",
+		"Brand": "PIRELLI",
+		"Model": "SCORPION VERDE A/S",
+		"price": "NONE",
+		"image": "images/275-45-20_PIR.jpeg"
+	},
+	{
+		"Size": "275/45R20",
+		"Brand": "BRIDGESTONE",
+		"Model": "ALENZA",
+		"price": "NONE",
+		"image": "images/275-45-20_BJS.jpeg"
+	},
+	{
+		"Size": "275/45R20",
 		"Brand": "TRIANGLE",
 		"Model": "SportX",
 		"price": "NONE",

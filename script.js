@@ -190,6 +190,20 @@ var data = [
 	},
 	{
 		"Size": "225/45R17",
+		"Brand": "PIRELLI",
+		"Model": "CINTURATO P7",
+		"price": "NONE",
+		"image": "images/225-45-17_PIR.jpeg"
+	},
+	{
+		"Size": "225/45R17",
+		"Brand": "YOKOHAMA",
+		"Model": "BLUEARTH-GT",
+		"price": "NONE",
+		"image": "images/224-45-17_YOKO.jpeg"
+	},
+	{
+		"Size": "225/45R17",
 		"Brand": "MICHELIN",
 		"Model": "PRIMACY 4ST",
 		"price": "NONE",
@@ -374,13 +388,6 @@ var data = [
 		"Size": "275/45R20",
 		"Brand": "PIRELLI",
 		"Model": "SCORPION VERDE A/S",
-		"price": "NONE",
-		"image": "images/275-45-20_PIR.jpeg"
-	},
-	{
-		"Size": "275/45R20",
-		"Brand": "PIRELlI",
-		"Model": "SCORPION VERDE All Season",
 		"price": "NONE",
 		"image": "images/275-45-20_PIR.jpeg"
 	},

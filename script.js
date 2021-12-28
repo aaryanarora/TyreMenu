@@ -168,6 +168,13 @@ var data = [
 		"image": "images/255-55-18_MIC.jpeg"
 	},
 	{
+		"Size": "285/60R18",
+		"Brand": "MAXXIS",
+		"Model": "BRAVO AT-980",
+		"price": "NONE",
+		"image": "images/285-60-18_MAXXIS.jpeg"
+	},
+	{
 		"Size": "235/50R19",
 		"Brand": "PIRELLI",
 		"Model": "P-ZERO PZ4",
@@ -187,6 +194,13 @@ var data = [
 		"Model": "P-ZERO",
 		"price": "NONE",
 		"image": "images/245-45-19_PIR.jpeg"
+	},
+	{
+		"Size": "255/50R19",
+		"Brand": "MICHELIN",
+		"Model": "LATITUDE SPORT 3",
+		"price": "NONE",
+		"image": "images/255-50-19_MIC.jpeg"
 	},
 	{
 		"Size": "255/50R19",

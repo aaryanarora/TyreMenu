@@ -239,10 +239,31 @@ var data = [
 	},
 	{
 		"Size": "225/50R17",
+		"Brand": "BRIDGESTONE",
+		"Model": "POTENZA RE050",
+		"price": "NONE",
+		"image": "images/225-50-17_BJS_POT.jpeg"
+	},
+	{
+		"Size": "225/50R17",
 		"Brand": "FALKEN",
 		"Model": "ZIEX ZE914",
 		"price": "NONE",
 		"image": "images/225-50-17_FALK.jpeg"
+	},
+	{
+		"Size": "225/50R17",
+		"Brand": "GOODYEAR",
+		"Model": "EFFICIENT GRIP",
+		"price": "NONE",
+		"image": "images/225-50-17_GY.jpeg"
+	},
+	{
+		"Size": "225/50R17",
+		"Brand": "PIRELLI",
+		"Model": "P7 CINTURATO",
+		"price": "NONE",
+		"image": "images/225-50-17_PIR.jpeg"
 	},
 	{
 		"Size": "245/45R17",

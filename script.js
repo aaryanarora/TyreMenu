@@ -154,6 +154,27 @@ var data = [
 		"image": "images/225-45-18_PIR.jpeg"
 	},
 	{
+		"Size": "225/50R18",
+		"Brand": "PIRELLI",
+		"Model": "CINTURATO P7",
+		"price": "NONE",
+		"image": "images/225-50-18_PIR.jpeg"
+	},
+	{
+		"Size": "225/50R18",
+		"Brand": "MICHELIN",
+		"Model": "PRIMACY 4ST",
+		"price": "NONE",
+		"image": "images/225-50-18_MIC.jpeg"
+	},
+	{
+		"Size": "225/50R18",
+		"Brand": "BRIDGESTONE",
+		"Model": "POTENZA S001 RFT",
+		"price": "NONE",
+		"image": "images/225-50-18_BJS.jpeg"
+	},
+	{
 		"Size": "225/55R18",
 		"Brand": "BRIDGESTONE",
 		"Model": "TURANZA T001",

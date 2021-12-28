@@ -84,6 +84,13 @@ var data = [
 		"image": "images/195-55-16_YOKO.jpeg"
 	},
 	{
+		"Size": "205/55R16",
+		"Brand": "YOKOHAMA",
+		"Model": "EARTH-1",
+		"price": "NONE",
+		"image": "images/205-55-16_YOKO.jpeg"
+	},
+	{
 		"Size": "205/65R16",
 		"Brand": "GOODYEAR",
 		"Model": "Assurance TripleMax",
@@ -222,6 +229,13 @@ var data = [
 		"Model": "SportX",
 		"price": "NONE",
 		"image": "images/255-50-19_triangle.jpeg"
+	},
+	{
+		"Size": "275/40R19",
+		"Brand": "PIRELLI",
+		"Model": "P-ZERO (MO)",
+		"price": "NONE",
+		"image": "images/275-40-19_PIR.jpeg"
 	},
 	{
 		"Size": "275/40R19",

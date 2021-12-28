@@ -336,6 +336,20 @@ var data = [
 		"image": "images/245-45-17_GY.jpeg"
 	},
 	{
+		"Size": "245/45R17",
+		"Brand": "CONTINENTAL",
+		"Model": "ContiSportContact 5",
+		"price": "NONE",
+		"image": "images/245-45-17_CONTI.jpeg"
+	},
+	{
+		"Size": "245/45R17",
+		"Brand": "MICHELIN",
+		"Model": "PRIMACY 4ST",
+		"price": "NONE",
+		"image": "images/245-45-17_MIC.jpeg"
+	},
+	{
 		"Size": "265/65R17",
 		"Brand": "PIRELLI",
 		"Model": "S-ATR",

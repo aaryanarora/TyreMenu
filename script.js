@@ -197,10 +197,17 @@ var data = [
 	},
 	{
 		"Size": "225/45R17",
+		"Brand": "PIRELLI",
+		"Model": "CINTURATO P7 (MO)",
+		"price": "NONE",
+		"image": "images/225-45-17_PIR_MO.jpeg"
+	},
+	{
+		"Size": "225/45R17",
 		"Brand": "YOKOHAMA",
 		"Model": "BLUEARTH-GT",
 		"price": "NONE",
-		"image": "images/224-45-17_YOKO.jpeg"
+		"image": "images/225-45-17_YOKO.jpeg"
 	},
 	{
 		"Size": "225/45R17",
@@ -215,6 +222,13 @@ var data = [
 		"Model": "ContiSportContact 5",
 		"price": "NONE",
 		"image": "images/225-45-17_CONTI.jpeg"
+	},
+	{
+		"Size": "225/50R17",
+		"Brand": "MICHELIN",
+		"Model": "PRIMACY 4ST",
+		"price": "NONE",
+		"image": "images/225-50-17_MIC.jpeg"
 	},
 	{
 		"Size": "245/45R17",

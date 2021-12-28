@@ -14,6 +14,13 @@ var data = [
 		"image": "images/165-65-14_GY.jpeg"
 	},
 	{
+		"Size": "165/70R14",
+		"Brand": "YOKOHAMA",
+		"Model": "EARTH-1",
+		"price": "NONE",
+		"image": "images/165-70-14_YOKO.jpeg"
+	},
+	{
 		"Size": "175/65R15",
 		"Brand": "MICHELIN",
 		"Model": "ENERGY XM2",
@@ -82,6 +89,13 @@ var data = [
 		"Model": "Assurance TripleMax",
 		"price": "NONE",
 		"image": "images/205-65-16_GY.jpeg"
+	},
+	{
+		"Size": "215/60R16",
+		"Brand": "YOKOHAMA",
+		"Model": "EARTH-1",
+		"price": "NONE",
+		"image": "images/215-60-16_YOKO.jpeg"
 	},
 	{
 		"Size": "215/60R17",

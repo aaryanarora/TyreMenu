@@ -113,6 +113,13 @@ var data = [
 	},
 	{
 		"Size": "205/55R16",
+		"Brand": "YOKOHAMA",
+		"Model": "EARTH-1",
+		"price": "NONE",
+		"image": "images/205-55-16_YOKO.jpeg"
+	},
+	{
+		"Size": "205/55R16",
 		"Brand": "GOODYEAR",
 		"Model": "Assurance TripleMax 2",
 		"price": "NONE",

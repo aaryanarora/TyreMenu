@@ -379,11 +379,39 @@ var data = [
 	},
 	{
 		"Size": "235/55R18",
+		"Brand": "PIRELLI",
+		"Model": "SCORPION VERDE S-I",
+		"price": "NONE",
+		"image": "images/235-55-18_PIR.jpeg"
+	},
+	{
+		"Size": "235/55R18",
+		"Brand": "PIRELLI",
+		"Model": "SCORPION VERDE (MO)",
+		"price": "NONE",
+		"image": "images/235-55-18_PIR_MO.jpeg"
+	},
+	{
+		"Size": "235/55R18",
+		"Brand": "BRIDGESTONE",
+		"Model": "ALENZA",
+		"price": "NONE",
+		"image": "images/235-55-18_BJS.jpeg"
+	},
+	{
+		"Size": "235/55R18",
 		"Brand": "HANKOOK",
 		"Model": "VENTUS S1 SUV ",
 		"price": "NONE",
 		"image": "images/235-55-18_HAN.jpeg"
 	},
+	{
+		"Size": "235/55R18",
+		"Brand": "MICHELIN",
+		"Model": "PREMIERE LTX",
+		"price": "NONE",
+		"image": "images/235-55-18_MIC.jpeg"
+	}
 	{
 		"Size": "235/60R18",
 		"Brand": "BRIDGESTONE",

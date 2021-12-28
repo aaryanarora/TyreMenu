@@ -35,6 +35,13 @@ var data = [
 		"image": "images/185-65-15_GY.jpeg"
 	},
 	{
+		"Size": "195/60R15",
+		"Brand": "YOKOHAMA",
+		"Model": "S-DRIVE",
+		"price": "NONE",
+		"image": "images/195-60-15_YOKO.jpeg"
+	},
+	{
 		"Size": "195/65R15",
 		"Brand": "YOKOHAMA",
 		"Model": "BLUEARTH-GT",
@@ -61,6 +68,13 @@ var data = [
 		"Model": "PRIMACY 4ST",
 		"price": "NONE",
 		"image": "images/195-55-16_MIC.jpeg"
+	},
+	{
+		"Size": "195/55R16",
+		"Brand": "YOKOHAMA",
+		"Model": "S-DRIVE",
+		"price": "NONE",
+		"image": "images/195-55-16_YOKO.jpeg"
 	},
 	{
 		"Size": "205/65R16",

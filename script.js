@@ -140,6 +140,13 @@ var data = [
 		"image": "images/235-60-18_BJS.jpeg"
 	},
 	{
+		"Size": "235/60R18",
+		"Brand": "BRIDGESTONE",
+		"Model": "DUELER H/P SPORT",
+		"price": "NONE",
+		"image": "images/235-60-18_BJS.jpeg"
+	},
+	{
 		"Size": "255/55R18",
 		"Brand": "MICHELIN",
 		"Model": "PILOT SPORT 4 SUV",
@@ -159,6 +166,13 @@ var data = [
 		"Model": "GEOLANDER",
 		"price": "NONE",
 		"image": "images/235-55-19_YOKO.jpeg"
+	},
+	{
+		"Size": "245/45R19",
+		"Brand": "PIRELLI",
+		"Model": "P-ZERO",
+		"price": "NONE",
+		"image": "images/245-45-19_PIR.jpeg"
 	},
 	{
 		"Size": "255/50R19",
@@ -190,10 +204,10 @@ var data = [
 	},
 	{
 		"Size": "D",
-		"Brand": "MICHELIN",
-		"Model": "ENERGY XM2",
+		"Brand": "d",
+		"Model": "d",
 		"price": "NONE",
-		"image": "images/175-65-15_MIC.jpeg"
+		"image": "images/.jpeg"
 	}
 	
 ];

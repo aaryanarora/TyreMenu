@@ -379,6 +379,13 @@ var data = [
 	},
 	{
 		"Size": "275/45R20",
+		"Brand": "PIRELlI",
+		"Model": "SCORPION VERDE All Season",
+		"price": "NONE",
+		"image": "images/275-45-20_PIR.jpeg"
+	},
+	{
+		"Size": "275/45R20",
 		"Brand": "BRIDGESTONE",
 		"Model": "ALENZA 001 RFT",
 		"price": "NONE",
@@ -387,7 +394,7 @@ var data = [
 	{
 		"Size": "275/45R20",
 		"Brand": "TRIANGLE",
-		"Model": "SportX",
+		"Model": "SporteX",
 		"price": "NONE",
 		"image": "images/275-45-20_triangle.jpeg"
 	},

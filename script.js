@@ -287,6 +287,20 @@ var data = [
 		"image": "images/285-45-21_PIR.jpeg"
 	},
 	{
+		"Size": "285/45R21",
+		"Brand": "CONTINENTAL",
+		"Model": "Premium Contact 6",
+		"price": "NONE",
+		"image": "images/285-45-21_CONTI.jpeg"
+	},
+	{
+		"Size": "315/40R21",
+		"Brand": "PIRELLI",
+		"Model": "P_ZERO PZ4 (MO)",
+		"price": "NONE",
+		"image": "images/315-40-21_PIR.jpeg"
+	},
+	{
 		"Size": "D",
 		"Brand": "d",
 		"Model": "d",

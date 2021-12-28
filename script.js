@@ -411,7 +411,7 @@ var data = [
 		"Model": "PREMIERE LTX",
 		"price": "NONE",
 		"image": "images/235-55-18_MIC.jpeg"
-	}
+	},
 	{
 		"Size": "235/60R18",
 		"Brand": "BRIDGESTONE",

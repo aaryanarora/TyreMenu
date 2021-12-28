@@ -98,6 +98,27 @@ var data = [
 		"image": "images/205-65-16_GY.jpeg"
 	},
 	{
+		"Size": "205/65R16",
+		"Brand": "BRIDGESTONE",
+		"Model": "B390",
+		"price": "NONE",
+		"image": "images/205-65-16_BJS.jpeg"
+	},
+	{
+		"Size": "205/65R16",
+		"Brand": "YOKOHAMA",
+		"Model": "EARTH-1",
+		"price": "NONE",
+		"image": "images/205-65-16_YOKO.jpeg"
+	},
+	{
+		"Size": "205/65R16",
+		"Brand": "MICHELIN",
+		"Model": "ENERGY XM2+",
+		"price": "NONE",
+		"image": "images/205-65-16_MIC.jpeg"
+	},
+	{
 		"Size": "215/60R16",
 		"Brand": "YOKOHAMA",
 		"Model": "EARTH-1",

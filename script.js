@@ -105,6 +105,13 @@ var data = [
 		"image": "images/215-55-18_GY.jpeg"
 	},
 	{
+		"Size": "225/45R18",
+		"Brand": "PIRELLI",
+		"Model": "P-ZERO PZ4",
+		"price": "NONE",
+		"image": "images/225-45-18_PIR.jpeg"
+	},
+	{
 		"Size": "225/55R18",
 		"Brand": "BRIDGESTONE",
 		"Model": "TURANZA T001",
@@ -117,6 +124,13 @@ var data = [
 		"Model": "DUELER H/P SPORT",
 		"price": "NONE",
 		"image": "images/235-50-18_BJS.jpeg"
+	},
+	{
+		"Size": "235/55R18",
+		"Brand": "HANKOOK",
+		"Model": "VENTUS S1 SUV ",
+		"price": "NONE",
+		"image": "images/235-55-18_HAN.jpeg"
 	},
 	{
 		"Size": "235/60R18",

@@ -231,6 +231,20 @@ var data = [
 		"image": "images/225-50-17_MIC.jpeg"
 	},
 	{
+		"Size": "225/50R17",
+		"Brand": "BRIDGESTONE",
+		"Model": "TURANZA T005",
+		"price": "NONE",
+		"image": "images/225-50-17_BJS.jpeg"
+	},
+	{
+		"Size": "225/50R17",
+		"Brand": "FALKEN",
+		"Model": "ZIEX ZE914",
+		"price": "NONE",
+		"image": "images/225-50-17_FALK.jpeg"
+	},
+	{
 		"Size": "245/45R17",
 		"Brand": "GOODYEAR",
 		"Model": "EFFICIENT GRIP",

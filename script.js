@@ -64,6 +64,13 @@ var data = [
 	},
 	{
 		"Size": "195/55R16",
+		"Brand": "BRIDGESTONE",
+		"Model": "B250",
+		"price": "NONE",
+		"image": "images/195-55-16_BJS.jpeg"
+	},
+	{
+		"Size": "195/55R16",
 		"Brand": "GOODYEAR",
 		"Model": "Assurance TripleMax",
 		"price": "NONE",
@@ -79,9 +86,30 @@ var data = [
 	{
 		"Size": "195/55R16",
 		"Brand": "YOKOHAMA",
+		"Model": "EARTH-1",
+		"price": "NONE",
+		"image": "images/195-55-16_YOKO.jpeg"
+	},
+	{
+		"Size": "195/55R16",
+		"Brand": "YOKOHAMA",
 		"Model": "S-DRIVE",
 		"price": "NONE",
 		"image": "images/195-55-16_YOKO.jpeg"
+	},
+	{
+		"Size": "195/55R16",
+		"Brand": "HANKOOK",
+		"Model": "KINERGY EX",
+		"price": "NONE",
+		"image": "images/195-55-16_HANK.jpeg"
+	},
+	{
+		"Size": "195/55R16",
+		"Brand": "PIRELLI",
+		"Model": "CINTURATO P1 VERDE",
+		"price": "NONE",
+		"image": "images/195-55-16_PIR.jpeg"
 	},
 	{
 		"Size": "205/55R16",

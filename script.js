@@ -95,7 +95,21 @@ var data = [
 		"Brand": "PIRELLI",
 		"Model": "P6 CINTURATO",
 		"price": "NONE",
-		"image": "images/205-55-16_PIR.jpeg"
+		"image": "images/205-55-16_PIR(2).jpeg"
+	},
+	{
+		"Size": "205/55R16",
+		"Brand": "BRIDGESTONE",
+		"Model": "ECOPIA EP150",
+		"price": "NONE",
+		"image": "images/205-55-16_BJS.jpeg"
+	},
+	{
+		"Size": "205/55R16",
+		"Brand": "BRIDGESTONE",
+		"Model": "ECOPIA EP300",
+		"price": "NONE",
+		"image": "images/205-55-16_BJS(2).jpeg"
 	},
 	{
 		"Size": "205/55R16",

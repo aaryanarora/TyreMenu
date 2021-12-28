@@ -205,7 +205,7 @@ var data = [
 	{
 		"Size": "275/45R20",
 		"Brand": "BRIDGESTONE",
-		"Model": "ALENZA",
+		"Model": "ALENZA 001 RFT",
 		"price": "NONE",
 		"image": "images/275-45-20_BJS.jpeg"
 	},

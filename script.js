@@ -42,6 +42,13 @@ var data = [
 		"image": "images/195-65-15_YOKO.jpeg"
 	},
 	{
+		"Size": "205/55R15",
+		"Brand": "YOKOHAMA",
+		"Model": "S-DRIVE",
+		"price": "NONE",
+		"image": "images/205-55-15_YOKO.jpeg"
+	},
+	{
 		"Size": "195/55R16",
 		"Brand": "GOODYEAR",
 		"Model": "Assurance TripleMax",
@@ -61,6 +68,13 @@ var data = [
 		"Model": "Assurance TripleMax",
 		"price": "NONE",
 		"image": "images/205-65-16_GY.jpeg"
+	},
+	{
+		"Size": "215/60R17",
+		"Brand": "MICHELIN",
+		"Model": "PRIMACY 4ST",
+		"price": "NONE",
+		"image": "images/215-60-17_MIC.jpeg"
 	},
 	{
 		"Size": "225/45R17",

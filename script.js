@@ -85,6 +85,20 @@ var data = [
 	},
 	{
 		"Size": "205/55R16",
+		"Brand": "PIRELLI",
+		"Model": "Cinturato All Season S-I",
+		"price": "NONE",
+		"image": "images/205-55-16_PIR.jpeg"
+	},
+	{
+		"Size": "205/55R16",
+		"Brand": "PIRELLI",
+		"Model": "P6 CINTURATO",
+		"price": "NONE",
+		"image": "images/205-55-16_PIR.jpeg"
+	},
+	{
+		"Size": "205/55R16",
 		"Brand": "GOODYEAR",
 		"Model": "Assurance TripleMax 2",
 		"price": "NONE",

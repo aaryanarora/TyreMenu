@@ -21,6 +21,13 @@ var data = [
 		"image": "images/175-65-15_MIC.jpeg"
 	},
 	{
+		"Size": "185/60R15",
+		"Brand": "MICHELIN",
+		"Model": "ENERGY XM2+",
+		"price": "NONE",
+		"image": "images/185-60-15_MIC.jpeg"
+	},
+	{
 		"Size": "185/65R15",
 		"Brand": "GOODYEAR",
 		"Model": "Assurance TripleMax",
@@ -89,6 +96,13 @@ var data = [
 		"Model": "ECOPIA EP850",
 		"price": "NONE",
 		"image": "images/235-60-18_BJS.jpeg"
+	},
+	{
+		"Size": "255/55R18",
+		"Brand": "MICHELIN",
+		"Model": "PILOT SPORT 4 SUV",
+		"price": "NONE",
+		"image": "images/255-55-18_MIC.jpeg"
 	},
 	{
 		"Size": "235/55R19",

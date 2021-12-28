@@ -105,6 +105,13 @@ var data = [
 		"image": "images/215-60-16_YOKO.jpeg"
 	},
 	{
+		"Size": "225/60R16",
+		"Brand": "MICHELIN",
+		"Model": "PRIMACY 4ST",
+		"price": "NONE",
+		"image": "images/225-60-16_MIC.jpeg"
+	},
+	{
 		"Size": "215/60R17",
 		"Brand": "MICHELIN",
 		"Model": "PRIMACY 4ST",
@@ -194,6 +201,13 @@ var data = [
 		"Model": "P-ZERO PZ4",
 		"price": "NONE",
 		"image": "images/245-40-18_PIR.jpeg"
+	},
+	{
+		"Size": "245/40R18",
+		"Brand": "BRIDGESTONE",
+		"Model": "TURANZA T005",
+		"price": "NONE",
+		"image": "images/245-40-18_BJS.jpeg"
 	},
 	{
 		"Size": "255/55R18",

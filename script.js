@@ -616,6 +616,20 @@ var data = [
 		"image": "images/305-40-20_PIR.jpeg"
 	},
 	{
+		"Size": "275/45R21",
+		"Brand": "PIRELLI",
+		"Model": "SCORPION VERDE A/S",
+		"price": "NONE",
+		"image": "images/275-45-21_PIR.jpeg"
+	},
+	{
+		"Size": "275/45R21",
+		"Brand": "PIRELLI",
+		"Model": "P-ZERO PZ4 (MO-S)",
+		"price": "NONE",
+		"image": "images/275-45-21_PIR_ZERO.jpeg"
+	},
+	{
 		"Size": "285/45R21",
 		"Brand": "PIRELLI",
 		"Model": "SCORPION ZERO ASIM",

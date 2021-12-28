@@ -266,6 +266,41 @@ var data = [
 		"image": "images/225-50-17_PIR.jpeg"
 	},
 	{
+		"Size": "225/60R17",
+		"Brand": "PIRELLI",
+		"Model": "P4",
+		"price": "NONE",
+		"image": "images/225-60-17_PIR.jpeg"
+	},
+	{
+		"Size": "225/60R17",
+		"Brand": "PIRELLI",
+		"Model": "P7 CINTURATO (*)",
+		"price": "NONE",
+		"image": "images/225-60-17_PIR_CINT.jpeg"
+	},
+	{
+		"Size": "225/60R17",
+		"Brand": "YOKOHAMA",
+		"Model": "EARTH-1",
+		"price": "NONE",
+		"image": "images/225-60-17_YOKO.jpeg"
+	},
+	{
+		"Size": "225/60R17",
+		"Brand": "DUNLOP",
+		"Model": "GRANDTREK ST20",
+		"price": "NONE",
+		"image": "images/225-60-17_DUN.jpeg"
+	},
+	{
+		"Size": "225/60R17",
+		"Brand": "FIRESTONE",
+		"Model": "LE-02",
+		"price": "NONE",
+		"image": "images/225-60-17_FS.jpeg"
+	},
+	{
 		"Size": "245/45R17",
 		"Brand": "GOODYEAR",
 		"Model": "EFFICIENT GRIP",

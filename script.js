@@ -63,6 +63,13 @@ var data = [
 		"image": "images/205-65-16_GY.jpeg"
 	},
 	{
+		"Size": "225/45R17",
+		"Brand": "MICHELIN",
+		"Model": "PRIMACY 4ST",
+		"price": "NONE",
+		"image": "images/225-45-17_MIC.jpeg"
+	},
+	{
 		"Size": "245/45R17",
 		"Brand": "GOODYEAR",
 		"Model": "EFFICIENT GRIP",
@@ -124,6 +131,13 @@ var data = [
 		"Model": "PILOT SPORT 4",
 		"price": "NONE",
 		"image": "images/275-40-19_MIC.jpeg"
+	},
+	{
+		"Size": "275/55R19",
+		"Brand": "MICHELIN",
+		"Model": "LATITUDE SPORT",
+		"price": "NONE",
+		"image": "images/275-55-19_MIC.jpeg"
 	},
 	{
 		"Size": "275/45R20",

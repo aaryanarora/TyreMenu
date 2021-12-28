@@ -296,9 +296,16 @@ var data = [
 	{
 		"Size": "225/50R18",
 		"Brand": "PIRELLI",
-		"Model": "CINTURATO P7",
+		"Model": "CINTURATO P7 (*)",
 		"price": "NONE",
 		"image": "images/225-50-18_PIR.jpeg"
+	},
+	{
+		"Size": "225/50R18",
+		"Brand": "PIRELLI",
+		"Model": "P7 CINTURATO (*)",
+		"price": "NONE",
+		"image": "images/225-50-18_PIR_CINT.jpeg"
 	},
 	{
 		"Size": "225/50R18",
@@ -313,6 +320,13 @@ var data = [
 		"Model": "POTENZA S001 RFT",
 		"price": "NONE",
 		"image": "images/225-50-18_BJS.jpeg"
+	},
+	{
+		"Size": "225/50R18",
+		"Brand": "FALKEN",
+		"Model": "ZIEX ZE912",
+		"price": "NONE",
+		"image": "images/225-50-18_FALK.jpeg"
 	},
 	{
 		"Size": "225/55R18",

@@ -182,6 +182,13 @@ var data = [
 		"image": "images/235-60-18_BJS.jpeg"
 	},
 	{
+		"Size": "235/60R18",
+		"Brand": "MICHELIN",
+		"Model": "LATITUDE SPORT 3",
+		"price": "NONE",
+		"image": "images/235-60-18_MIC.jpeg"
+	},
+	{
 		"Size": "245/40R18",
 		"Brand": "PIRELLI",
 		"Model": "P-ZERO PZ4",
@@ -278,6 +285,13 @@ var data = [
 		"Model": "SportX",
 		"price": "NONE",
 		"image": "images/275-45-20_triangle.jpeg"
+	},
+	{
+		"Size": "305/40R20",
+		"Brand": "PIRELLI",
+		"Model": "P-ZERO (NO)",
+		"price": "NONE",
+		"image": "images/305-40-20_PIR.jpeg"
 	},
 	{
 		"Size": "285/45R21",

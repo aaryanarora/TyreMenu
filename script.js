@@ -210,6 +210,13 @@ var data = [
 		"image": "images/225-45-17_MIC.jpeg"
 	},
 	{
+		"Size": "225/45R17",
+		"Brand": "CONTINENTAL",
+		"Model": "ContiSportContact 5",
+		"price": "NONE",
+		"image": "images/225-45-17_CONTI.jpeg"
+	},
+	{
 		"Size": "245/45R17",
 		"Brand": "GOODYEAR",
 		"Model": "EFFICIENT GRIP",

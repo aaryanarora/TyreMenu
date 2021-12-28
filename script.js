@@ -11,70 +11,70 @@ var data = [
 		"Brand": "GOODYEAR",
 		"Model": "DP SERIES",
 		"price": "NONE",
-		"image": "images/165-65-14_GY.jpg"
+		"image": "images/165-65-14_GY.jpeg"
 	},
 	{
 		"Size": "175/65R15",
 		"Brand": "MICHELIN",
 		"Model": "ENERGY XM2",
 		"price": "NONE",
-		"image": "images/175-65-15_MIC.jpg"
+		"image": "images/175-65-15_MIC.jpeg"
 	},
 	{
 		"Size": "185/65R15",
 		"Brand": "GOODYEAR",
 		"Model": "Assurance TripleMax",
 		"price": "NONE",
-		"image": "images/185-65-15_GY.jpg"
+		"image": "images/185-65-15_GY.jpeg"
 	},
 	{
 		"Size": "195/65R15",
 		"Brand": "YOKOHAMA",
 		"Model": "BLUEARTH-GT",
 		"price": "NONE",
-		"image": "images/195-65-15_YOKO.jpg"
+		"image": "images/195-65-15_YOKO.jpeg"
 	},
 	{
 		"Size": "195/55R16",
 		"Brand": "GOODYEAR",
 		"Model": "Assurance TripleMax",
 		"price": "NONE",
-		"image": "images/195-55-16_GY.jpg"
+		"image": "images/195-55-16_GY.jpeg"
 	},
 	{
 		"Size": "195/55R16",
 		"Brand": "MICHELIN",
 		"Model": "PRIMACY 4ST",
 		"price": "NONE",
-		"image": "images/195-55-16_MIC.jpg"
+		"image": "images/195-55-16_MIC.jpeg"
 	},
 	{
 		"Size": "205/65R16",
 		"Brand": "GOODYEAR",
 		"Model": "Assurance TripleMax",
 		"price": "NONE",
-		"image": "images/205-65-16_GY.jpg"
+		"image": "images/205-65-16_GY.jpeg"
 	},
 	{
 		"Size": "245/45R17",
 		"Brand": "GOODYEAR",
 		"Model": "EFFICIENT GRIP",
 		"price": "NONE",
-		"image": "images/245-45-17_GY.jpg"
+		"image": "images/245-45-17_GY.jpeg"
 	},
 	{
 		"Size": "265/65R17",
 		"Brand": "PIRELLI",
 		"Model": "S-ATR",
 		"price": "NONE",
-		"image": "images/265-65-17_PIR.jpg"
+		"image": "images/265-65-17_PIR.jpeg"
 	},
 	{
 		"Size": "215/55R18",
 		"Brand": "GOODYEAR",
 		"Model": "EfficientGrip",
 		"price": "NONE",
-		"image": "images/215-55-18_GY.jpg"
+		"image": "images/215-55-18_GY.jpeg"
 	},
 	{
 		"Size": "225/55R18",
@@ -102,14 +102,14 @@ var data = [
 		"Brand": "TRIANGLE",
 		"Model": "SportX",
 		"price": "NONE",
-		"image": "images/255-50-19_triangle.jpg"
+		"image": "images/255-50-19_triangle.jpeg"
 	},
 	{
 		"Size": "275/40R19",
 		"Brand": "MICHELIN",
 		"Model": "PILOT SPORT 4",
 		"price": "NONE",
-		"image": "images/275-40-19_MIC.jpg"
+		"image": "images/275-40-19_MIC.jpeg"
 	},
 	{
 		"Size": "275/45R20",
@@ -123,7 +123,7 @@ var data = [
 		"Brand": "MICHELIN",
 		"Model": "ENERGY XM2",
 		"price": "NONE",
-		"image": "images/175-65-15_MIC.jpg"
+		"image": "images/175-65-15_MIC.jpeg"
 	}
 	
 ];

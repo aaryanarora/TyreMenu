@@ -28,14 +28,16 @@ var store = new Vue({
   el: '#store',
   data: {
     products: [
-      { id: 0, title: 'Hat', price: 5.99, category: 'Honda', img: '👒' },
-      { id: 1, title: 'Gloves', price: 1.99, category: 'Honda', img: '🧤'},
-      { id: 2, title: 'Boots', price: 30.00, category: 'Honda', img: '👢' },
-      { id: 3, title: 'Coat', price: 55.99, category: 'Misc', img: '🧥' },
-      { id: 4, title: 'Leather Shoes', price: 16.00, category: 'Footwear', img: '👞' },
-      { id: 5, title: 'Cap', price: 3.75, category: 'Toyota', img: '🧢' },
-      { id: 6, title: 'Scarf', price: 2.50, category: 'Honda', img: '🧣' },
-      { id: 7, title: 'Jumper', price: 12.00, category: 'Misc', img: '👚' }
+      { id: 0, title: 'Honda', category: 'Honda', img: 'City', size: '175/65R15 5.5Jx15 ET51' },
+      { id: 1, title: 'Audi', category: 'Audi', img: 'A4',size:'225/50R17 7Jx17 ET42'},
+      { id: 2, title: 'Mercedes', category: 'Mercedes', img: 'E200D',size:'205/65R16 7Jx16 ET32'},
+      { id: 3, title: 'BMW', category: 'BMW', img: 'Model',size:'size to be'},
+      { id: 4, title: 'Toyota', category: 'Toyota', img: 'Model',size:'size to be'},
+      { id: 5, title: 'Hyundai', category: 'Hyundai', img: 'Model',size:'size to be'},
+      { id: 6, title: 'Suzuki', category: 'Suzuki', img: 'Model',size:'size to be'},
+      { id: 7, title: 'Volkswagen', category: 'Volkswagen', img: 'Model',size:'size to be'},
+      { id: 8, title: 'Mahindra', category: 'Mahindra', img: 'Model',size:'size to be'}
+      
     ],
     filter: false,
     cart: {

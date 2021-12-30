@@ -21,8 +21,18 @@
     <ul>
       <li v-on:click="filter=false">All</li>
       <li v-on:click="filter='Honda'">Honda</li>
-      <li v-on:click="filter='Footwear'">Footwear</li>
+      <li v-on:click="filter='Audi'">Audi</li>
+      <li v-on:click="filter='Mercedes'">Mercedes</li>
+    </ul>  
+    <ul>
+      <li v-on:click="filter='BMW'">BMW</li>
       <li v-on:click="filter='Toyota'">Toyota</li>
+      <li v-on:click="filter='Hyundai'">Hyundai</li>
+      <li v-on:click="filter='Suzuki'">Suzuki</li>
+    </ul>  
+    <ul>
+      <li v-on:click="filter='Volkswagen'">Volkswagen</li>
+      <li v-on:click="filter='Mahindra'">Mahindra</li>
       
     </ul>
   </navigation>
@@ -35,6 +45,7 @@
       v-for="item in products"
       v-bind:product="item"
       v-bind:title="item.title"
+      v-bind:title="item.size"
       v-bind:price="item.price"
       v-bind:category="item.category"
       v-bind:key="item.id"
@@ -52,7 +63,8 @@
 	<div class="product-card" v-on:click="addToCart(product.id)" >
     <div class="title">{{ product.title }}</div>
     <div class="img">{{ product.img }}</div>
-    <div>{{ product.price.toFixed(2) }}</div>
+    <div class="title">{{ product.size }}</div>
+    <!-- <div >{{ product.price }}</div> -->
 	</div>
 </script>
 

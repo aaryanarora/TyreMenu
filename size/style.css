@@ -1,0 +1,97 @@
+* {
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.basic-border {
+  border: 1px solid;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+ul{
+  padding: 0;
+}
+#store {
+  max-width: 940px;
+  margin: auto;
+}
+#store navigation {
+  text-align: center;
+}
+#store navigation h1 {
+  text-transform: uppercase;
+  letter-spacing: 0.25em;
+}
+#store navigation ul {
+  border: 1px solid;
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+#store navigation ul li {
+  flex: 1;
+  padding: 1em;
+}
+#store navigation ul li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+#store navigation ul li.cart {
+  color: blue;
+}
+#store #products {
+  display: flex;
+  flex-wrap: wrap;
+}
+#store #products .product-card {
+  padding: 1em;
+  width: 25%;
+  text-align: center;
+  font-weight: bold;
+}
+#store #products .product-card .img {
+  font-size: 3em;
+  padding: 0.5em 0;
+}
+#store #products .product-card:hover {
+  cursor: pointer;
+  background-color: #b3b3ff;
+}
+#store #cart-popup {
+  position: relative;
+  display: inline-block;
+}
+#store #cart-popup .contents {
+  border: 1px solid;
+  background: white;
+  padding: 1em 3em;
+  max-width: 640px;
+  position: fixed;
+  z-index: 1;
+  top: 1.5em;
+  left: 1em;
+  right: 1em;
+  margin: auto;
+}
+#store #cart-popup .contents input {
+  width: 100%;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 0.5em;
+}
+#store #cart-popup .contents .close {
+  font-weight: bold;
+  font-size: 2em;
+  position: absolute;
+  top: 0;
+  right: 0.5em;
+  border-radius: 50px;
+  cursor: pointer;
+}
+#store #footer {
+  font-size: 0.75em;
+  color: grey;
+  text-align: center;
+  padding: 2em;
+}

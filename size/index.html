@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Size</title>
+  <link rel="stylesheet" href="./style.css">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="HandheldFriendly" content="true">
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id="store">
+  
+  <navigation>
+    
+    <!-- header -->
+    <h1>SIZE</h1>
+    <a href ="../index.html">HOME</a>
+    <!-- filter / cart bar -->
+    <ul>
+      <li v-on:click="filter=false">All</li>
+      <li v-on:click="filter='Honda'">Honda</li>
+      <li v-on:click="filter='Footwear'">Footwear</li>
+      <li v-on:click="filter='Toyota'">Toyota</li>
+      
+    </ul>
+  </navigation>
+  
+  
+  
+  <!-- product list -->
+  <div id="products">
+    <product-item
+      v-for="item in products"
+      v-bind:product="item"
+      v-bind:title="item.title"
+      v-bind:price="item.price"
+      v-bind:category="item.category"
+      v-bind:key="item.id"
+      v-bind:img="item.img"
+      v-if="item.category==filter || !filter"
+    ></product-item>
+  </div>
+  
+  <!-- footer -->
+
+</div>
+
+<!-- product item -->
+<script type="text/x-template" id="product-item-template">
+	<div class="product-card" v-on:click="addToCart(product.id)" >
+    <div class="title">{{ product.title }}</div>
+    <div class="img">{{ product.img }}</div>
+    <div>{{ product.price.toFixed(2) }}</div>
+	</div>
+</script>
+
+
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>

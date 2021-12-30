@@ -95,3 +95,17 @@ ul{
   text-align: center;
   padding: 2em;
 }
+
+@media only screen and (max-width: 600px) {
+  #store #products .product-card .img {
+    font-size: 1.2rem;
+    padding: 0.5em 0;
+  }
+  
+  .new{
+    font-size: 0.6rem;
+  }
+  .title{
+    font-size: 0.7rem;
+  }
+}

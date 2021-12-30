@@ -19,7 +19,7 @@ Vue.component('product-item', {
       store.cart.total += product.price;
       
       // update
-      alert('Adding ' + product.title + ' to cart');
+      alert(product.title + ' ' + product.img + ' has size of ' + product.size);
     }
   }
 });

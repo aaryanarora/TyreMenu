@@ -36,7 +36,8 @@ var store = new Vue({
       { id: 5, title: 'Hyundai', category: 'Hyundai', img: 'Model',size:'size to be'},
       { id: 6, title: 'Suzuki', category: 'Suzuki', img: 'Model',size:'size to be'},
       { id: 7, title: 'Volkswagen', category: 'Volkswagen', img: 'Model',size:'size to be'},
-      { id: 8, title: 'Mahindra', category: 'Mahindra', img: 'Model',size:'size to be'}
+      { id: 8, title: 'Mahindra', category: 'Mahindra', img: 'Model',size:'size to be'},
+      { id: 9, title: 'Honda', category: 'Honda', img: 'CRV',size:'Crv ka Size'}
       
     ],
     filter: false,

@@ -37,7 +37,15 @@ var store = new Vue({
       { id: 6, title: 'Suzuki', category: 'Suzuki', img: 'Model',size:'size to be'},
       { id: 7, title: 'Volkswagen', category: 'Volkswagen', img: 'Model',size:'size to be'},
       { id: 8, title: 'Mahindra', category: 'Mahindra', img: 'Model',size:'size to be'},
-      { id: 9, title: 'Honda', category: 'Honda', img: 'CRV',size:'Crv ka Size'}
+      { id: 9, title: 'Honda', category: 'Honda', img: 'CR-V',size:'225/65R17'},
+      { id: 10, title: 'Honda', category: 'Honda', img: 'JAZZ',size:'175/65R15'},
+      { id: 11, title: 'Honda', category: 'Honda', img: 'WR-V',size:'195/60R16'},
+      { id: 12, title: 'Honda', category: 'Honda', img: 'CITY 4th GEN',size:'185/55R16'},
+      { id: 13, title: 'Honda', category: 'Honda', img: 'CITY',size:'175/65R15'},
+      { id: 14, title: 'Honda', category: 'Honda', img: 'BR-V',size:'195/60R16'},
+      { id: 15, title: 'Honda', category: 'Honda', img: 'CIVIC',size:'195/65R15'},
+      { id: 16, title: 'Honda', category: 'Honda', img: 'ACCORD HYBRID',size:'235/45R18'}
+      
       
     ],
     filter: false,

@@ -28,7 +28,7 @@ var store = new Vue({
   el: '#store',
   data: {
     products: [
-      { id: 0, title: 'Honda', category: 'Honda', img: 'City', size: '175/65R15 5.5Jx15 ET51' },
+      { id: 0, title: 'Honda', category: 'Honda', img: 'Amaze', size: '175/65R15' },
       { id: 1, title: 'Audi', category: 'Audi', img: 'A4',size:'225/50R17 7Jx17 ET42'},
       { id: 2, title: 'Mercedes', category: 'Mercedes', img: 'E200D',size:'205/65R16 7Jx16 ET32'},
       { id: 3, title: 'BMW', category: 'BMW', img: 'Model',size:'size to be'},

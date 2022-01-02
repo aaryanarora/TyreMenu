@@ -73,7 +73,11 @@ var store = new Vue({
       { id: 42, title: 'Hyundai', category: 'Hyundai', img: 'ALCAZAR',size:'215/60R17'},
       { id: 43, title: 'Hyundai', category: 'Hyundai', img: 'AURA',size:'175/60R15'},
       { id: 44, title: 'Hyundai', category: 'Hyundai', img: 'SANTRO',size:'155/80R13'},
-      { id: 45, title: 'Hyundai', category: 'Hyundai', img: 'TUCSON',size:'215/65R16'}
+      { id: 45, title: 'Hyundai', category: 'Hyundai', img: 'TUCSON',size:'215/65R16'},
+      { id: 46, title: 'Hyundai', category: 'Hyundai', img: 'ELANTRA',size:'205/60R16'},
+      { id: 47, title: 'Hyundai', category: 'Hyundai', img: 'GRAND I10 NIOS',size:'175/60R15'},
+      { id: 48, title: 'Hyundai', category: 'Hyundai', img: 'I20 N-LINE',size:'195/55R16'},
+      
       
       
     ],

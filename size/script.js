@@ -47,9 +47,9 @@ var store = new Vue({
       { id: 16, title: 'Honda', category: 'Honda', img: 'ACCORD HYBRID',size:'235/45R18'},
       { id: 17, title: 'Honda', category: 'Honda', img: 'BRIO',size:'175/65R15'},
       { id: 18, title: 'Suzuki', category: 'Suzuki', img: 'BREZZA',size:'205/60R16'},
-      { id: 19, title: 'Suzuki', category: 'Suzuki', img: 'SWIFT 3rd GEN(LXi/VXi)',size:'165/80R14'},
+      { id: 19, title: 'Suzuki', category: 'Suzuki', img: 'SWIFT 3rd GEN (LXi/VXi)',size:'165/80R14'},
       { id: 20, title: 'Suzuki', category: 'Suzuki', img: 'SWIFT ZXi',size:'185/65R15'},
-      { id: 21, title: 'Suzuki', category: 'Suzuki', img: 'SWIFT 2nd GEN(ZXi/ZDi)',size:'185/70R14'},
+      { id: 21, title: 'Suzuki', category: 'Suzuki', img: 'SWIFT 2nd GEN (ZXi/ZDi)',size:'185/70R14'},
       { id: 22, title: 'Suzuki', category: 'Suzuki', img: 'ERTIGA',size:'185/65R15'},
       { id: 23, title: 'Suzuki', category: 'Suzuki', img: 'BALENO',size:'195/55R16'},
       { id: 24, title: 'Suzuki', category: 'Suzuki', img: 'SWIFT DZIRE (ZXi)',size:'185/65R15'},
@@ -60,8 +60,20 @@ var store = new Vue({
       { id: 29, title: 'Suzuki', category: 'Suzuki', img: 'XL6',size:'185/65R15'},
       { id: 30, title: 'Suzuki', category: 'Suzuki', img: 'S-PRESSO',size:'165/70R14'},
       { id: 31, title: 'Suzuki', category: 'Suzuki', img: 'CIAZ',size:'195/55R16'},
-      { id: 32, title: 'Suzuki', category: 'Suzuki', img: 'IGNIS',size:'175/65R15'}
-      
+      { id: 32, title: 'Suzuki', category: 'Suzuki', img: 'IGNIS',size:'175/65R15'},
+      { id: 33, title: 'Toyota', category: 'Toyota', img: 'FORTUNER',size:'265/65R17'},
+      { id: 34, title: 'Toyota', category: 'Toyota', img: 'INNOVA CRYSTA',size:'205/65R16'},
+      { id: 35, title: 'Toyota', category: 'Toyota', img: 'CAMRY',size:'215/60R16'},
+      { id: 36, title: 'Toyota', category: 'Toyota', img: 'GLANZA',size:'195/55R16'},
+      { id: 37, title: 'Toyota', category: 'Toyota', img: 'URBAN CRUISER',size:'205/60R16'},
+      { id: 38, title: 'Hyundai', category: 'Hyundai', img: 'CRETA',size:'205/65R16'},
+      { id: 39, title: 'Hyundai', category: 'Hyundai', img: 'VENUE',size:'195/65R15'},
+      { id: 40, title: 'Hyundai', category: 'Hyundai', img: 'I20',size:'195/55R16'},
+      { id: 41, title: 'Hyundai', category: 'Hyundai', img: 'VERNA',size:'195/55R16'},
+      { id: 42, title: 'Hyundai', category: 'Hyundai', img: 'ALCAZAR',size:'215/60R17'},
+      { id: 43, title: 'Hyundai', category: 'Hyundai', img: 'AURA',size:'175/60R15'},
+      { id: 44, title: 'Hyundai', category: 'Hyundai', img: 'SANTRO',size:'155/80R13'},
+      { id: 45, title: 'Hyundai', category: 'Hyundai', img: 'TUCSON',size:'215/65R16'}
       
       
     ],

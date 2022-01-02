@@ -77,6 +77,13 @@ var store = new Vue({
       { id: 46, title: 'Hyundai', category: 'Hyundai', img: 'ELANTRA',size:'205/60R16'},
       { id: 47, title: 'Hyundai', category: 'Hyundai', img: 'GRAND I10 NIOS',size:'175/60R15'},
       { id: 48, title: 'Hyundai', category: 'Hyundai', img: 'I20 N-LINE',size:'195/55R16'},
+      { id: 49, title: 'Tata', category: 'Tata', img: 'NEXON',size:'195/60R16'},
+      { id: 50, title: 'Tata', category: 'Tata', img: 'HARRIER',size:'235/60R17'},
+      { id: 51, title: 'Tata', category: 'Tata', img: 'ALTROZ',size:'195/55R16'},
+      { id: 52, title: 'Tata', category: 'Tata', img: 'TIAGO',size:'175/60R15'},
+      { id: 53, title: 'Tata', category: 'Tata', img: 'SAFARI',size:'235/70R16'},
+      { id: 54, title: 'Tata', category: 'Tata', img: 'TIGOR',size:'175/60R15'}
+      
       
       
       

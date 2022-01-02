@@ -44,7 +44,24 @@ var store = new Vue({
       { id: 13, title: 'Honda', category: 'Honda', img: 'CITY',size:'175/65R15'},
       { id: 14, title: 'Honda', category: 'Honda', img: 'BR-V',size:'195/60R16'},
       { id: 15, title: 'Honda', category: 'Honda', img: 'CIVIC',size:'195/65R15'},
-      { id: 16, title: 'Honda', category: 'Honda', img: 'ACCORD HYBRID',size:'235/45R18'}
+      { id: 16, title: 'Honda', category: 'Honda', img: 'ACCORD HYBRID',size:'235/45R18'},
+      { id: 17, title: 'Honda', category: 'Honda', img: 'BRIO',size:'175/65R15'},
+      { id: 18, title: 'Suzuki', category: 'Suzuki', img: 'BREZZA',size:'205/60R16'},
+      { id: 19, title: 'Suzuki', category: 'Suzuki', img: 'SWIFT 3rd GEN(LXi/VXi)',size:'165/80R14'},
+      { id: 20, title: 'Suzuki', category: 'Suzuki', img: 'SWIFT ZXi',size:'185/65R15'},
+      { id: 21, title: 'Suzuki', category: 'Suzuki', img: 'SWIFT 2nd GEN(ZXi/ZDi)',size:'185/70R14'},
+      { id: 22, title: 'Suzuki', category: 'Suzuki', img: 'ERTIGA',size:'185/65R15'},
+      { id: 23, title: 'Suzuki', category: 'Suzuki', img: 'BALENO',size:'195/55R16'},
+      { id: 24, title: 'Suzuki', category: 'Suzuki', img: 'SWIFT DZIRE (ZXi)',size:'185/65R15'},
+      { id: 25, title: 'Suzuki', category: 'Suzuki', img: 'WAGON-R (LXi)',size:'155/80R13'},
+      { id: 26, title: 'Suzuki', category: 'Suzuki', img: 'WAGON-R (VXi/ZXi)',size:'165/70R14'},
+      { id: 27, title: 'Suzuki', category: 'Suzuki', img: 'CELERIO',size:'165/70R14'},
+      { id: 28, title: 'Suzuki', category: 'Suzuki', img: 'S-CROSS',size:'205/60R16'},
+      { id: 29, title: 'Suzuki', category: 'Suzuki', img: 'XL6',size:'185/65R15'},
+      { id: 30, title: 'Suzuki', category: 'Suzuki', img: 'S-PRESSO',size:'165/70R14'},
+      { id: 31, title: 'Suzuki', category: 'Suzuki', img: 'CIAZ',size:'195/55R16'},
+      { id: 32, title: 'Suzuki', category: 'Suzuki', img: 'IGNIS',size:'175/65R15'}
+      
       
       
     ],

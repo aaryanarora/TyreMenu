@@ -32,7 +32,7 @@ var store = new Vue({
       { id: 1, title: 'Audi', category: 'Audi', img: 'A4',size:'225/50R17 7Jx17 ET42'},
       { id: 2, title: 'Mercedes', category: 'Mercedes', img: 'E200D',size:'205/65R16 7Jx16 ET32'},
       { id: 3, title: 'BMW', category: 'BMW', img: 'Model',size:'size to be'},
-      { id: 4, title: 'Toyota', category: 'Toyota', img: 'Model',size:'size to be'},
+      { id: 4, title: 'Toyota', category: 'Toyota', img: 'Etios',size:'175/70R14'},
       { id: 5, title: 'Hyundai', category: 'Hyundai', img: 'Model',size:'size to be'},
       { id: 6, title: 'Suzuki', category: 'Suzuki', img: 'Model',size:'size to be'},
       { id: 7, title: 'Volkswagen', category: 'Volkswagen', img: 'Model',size:'size to be'},

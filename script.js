@@ -210,6 +210,13 @@ var data = [
 		"image": "images/225-60-16_MIC.jpeg"
 	},
 	{
+		"Size": "225/60R16",
+		"Brand": "ACCELERA",
+		"Model": "ECO PLUSH",
+		"price": "NONE",
+		"image": "images/225-60-16_ACC.jpeg"
+	},
+	{
 		"Size": "215/60R17",
 		"Brand": "MICHELIN",
 		"Model": "PRIMACY 4ST",
@@ -292,6 +299,13 @@ var data = [
 		"Model": "P7 CINTURATO",
 		"price": "NONE",
 		"image": "images/225-50-17_PIR.jpeg"
+	},
+	{
+		"Size": "225/55R17",
+		"Brand": "ACCELERA",
+		"Model": "PHI-R",
+		"price": "NONE",
+		"image": "images/225-55-17_ACC.jpeg"
 	},
 	{
 		"Size": "225/60R17",
@@ -579,6 +593,13 @@ var data = [
 		"Model": "SportX",
 		"price": "NONE",
 		"image": "images/255-50-19_triangle.jpeg"
+	},
+	{
+		"Size": "255/50R19",
+		"Brand": "ACCELERA",
+		"Model": "IOTA-ST68",
+		"price": "NONE",
+		"image": "images/255-50-19_ACC.jpeg"
 	},
 	{
 		"Size": "275/40R19",

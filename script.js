@@ -560,6 +560,13 @@ var data = [
 		"image": "images/255-55-18_MIC.jpeg"
 	},
 	{
+		"Size": "255/60R18",
+		"Brand": "ACCELERA",
+		"Model": "IOTA-ST68",
+		"price": "NONE",
+		"image": "images/255-60-18_ACC.jpeg"
+	},
+	{
 		"Size": "265/60R18",
 		"Brand": "ACCELERA",
 		"Model": "IOTA-ST68",
@@ -663,6 +670,13 @@ var data = [
 		"Model": "IOTA-ST68",
 		"price": "NONE",
 		"image": "images/285-45-19_ACC.jpeg"
+	},
+	{
+		"Size": "255/50R20",
+		"Brand": "ACCELERA",
+		"Model": "IOTA-ST68",
+		"price": "NONE",
+		"image": "images/255-50-20_ACC.jpeg"
 	},
 	{
 		"Size": "275/45R20",

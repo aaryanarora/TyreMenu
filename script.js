@@ -526,6 +526,13 @@ var data = [
 	},
 	{
 		"Size": "285/60R18",
+		"Brand": "MICHELIN",
+		"Model": "PRIMACY SUV",
+		"price": "NONE",
+		"image": "images/285-60-18_MIC.jpeg"
+	},
+	{
+		"Size": "285/60R18",
 		"Brand": "MAXXIS",
 		"Model": "BRAVO AT-980",
 		"price": "NONE",
@@ -544,6 +551,13 @@ var data = [
 		"Model": "GEOLANDER",
 		"price": "NONE",
 		"image": "images/235-55-19_YOKO.jpeg"
+	},
+	{
+		"Size": "235/55R19",
+		"Brand": "TRIANGLE",
+		"Model": "ADVANTEX SUV",
+		"price": "NONE",
+		"image": "images/235-55-19_TRI.jpeg"
 	},
 	{
 		"Size": "245/45R19",
@@ -586,6 +600,13 @@ var data = [
 		"Model": "LATITUDE SPORT",
 		"price": "NONE",
 		"image": "images/275-55-19_MIC.jpeg"
+	},
+	{
+		"Size": "285/45R19",
+		"Brand": "ACCELERA",
+		"Model": "IOTA-ST68",
+		"price": "NONE",
+		"image": "images/285-45-19_ACC.jpeg"
 	},
 	{
 		"Size": "275/45R20",

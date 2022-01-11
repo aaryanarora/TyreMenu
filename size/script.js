@@ -134,7 +134,21 @@ var store = new Vue({
       { id: 101, title: 'MG', category: 'MG', img: 'ZS EV',size:'215/50R17'},
       { id: 102, title: 'Kia', category: 'Kia', img: 'SELTOS',size:'205/65R16'},
       { id: 103, title: 'Kia', category: 'Kia', img: 'SONET',size:'195/65R15'},
-      { id: 104, title: 'Kia', category: 'Kia', img: 'CARNIVAL',size:'235/60R18'}
+      { id: 104, title: 'Kia', category: 'Kia', img: 'CARNIVAL',size:'235/60R18'},
+      { id: 105, title: 'Skoda', category: 'Skoda', img: 'KODIAQ',size:'235/55R18'},
+      { id: 106, title: 'Skoda', category: 'Skoda', img: 'KUSHAQ',size:'205/60R16'},
+      { id: 107, title: 'Skoda', category: 'Skoda', img: 'RAPID',size:'195/55R16'},
+      { id: 108, title: 'Skoda', category: 'Skoda', img: 'OCTAVIA',size:'205/55R16'},
+      { id: 109, title: 'Skoda', category: 'Skoda', img: 'SUPERB',size:'215/55R17'},
+      { id: 110, title: 'Renault', category: 'Renault', img: 'TRIBER',size:'185/65R15'},
+      { id: 111, title: 'Renault', category: 'Renault', img: 'KIGER',size:'195/60R16'},
+      { id: 112, title: 'Renault', category: 'Renault', img: 'KWID',size:'155/80R13'},
+      { id: 113, title: 'Renault', category: 'Renault', img: 'DUSTER',size:'215/60R17'},
+      { id: 114, title: 'Nissan', category: 'Nissan', img: 'MAGNITE',size:'195/60R16'},
+      { id: 115, title: 'Nissan', category: 'Nissan', img: 'KICKS',size:'175/65R15'}
+      
+      
+      
       
       
       

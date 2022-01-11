@@ -469,6 +469,13 @@ var data = [
 		"image": "images/235-55-18_MIC.jpeg"
 	},
 	{
+		"Size": "235/55R18",
+		"Brand": "ACCELERA",
+		"Model": "IOTA-ST68",
+		"price": "NONE",
+		"image": "images/235-55-18_ACC.jpeg"
+	},
+	{
 		"Size": "235/60R18",
 		"Brand": "BRIDGESTONE",
 		"Model": "ECOPIA EP850",
@@ -537,6 +544,13 @@ var data = [
 		"Model": "PILOT SPORT 4 SUV",
 		"price": "NONE",
 		"image": "images/255-55-18_MIC.jpeg"
+	},
+	{
+		"Size": "265/60R18",
+		"Brand": "ACCELERA",
+		"Model": "IOTA-ST68",
+		"price": "NONE",
+		"image": "images/265-60-18_ACC.jpeg"
 	},
 	{
 		"Size": "285/60R18",
@@ -670,6 +684,13 @@ var data = [
 		"Model": "P-ZERO PZ4 (MO-S)",
 		"price": "NONE",
 		"image": "images/275-45-21_PIR_ZERO.jpeg"
+	},
+	{
+		"Size": "275/45R21",
+		"Brand": "ACCELERA",
+		"Model": "IOTA-ST68",
+		"price": "NONE",
+		"image": "images/275-45-21_ACC.jpeg"
 	},
 	{
 		"Size": "285/45R21",

@@ -29,11 +29,11 @@ var store = new Vue({
   data: {
     products: [
       { id: 0, title: 'Honda', category: 'Honda', img: 'Amaze', size: '175/65R15' },
-      { id: 1, title: 'Audi', category: 'Audi', img: 'A4',size:'225/50R17 7Jx17 ET42'},
-      { id: 2, title: 'Mercedes', category: 'Mercedes', img: 'E200D',size:'205/65R16 7Jx16 ET32'},
+      { id: 1, title: 'Audi', category: 'Audi', img: 'A4',size:'225/50R17'},
+      { id: 2, title: 'Mercedes', category: 'Mercedes', img: 'E200D',size:'205/65R16'},
       { id: 3, title: 'BMW', category: 'BMW', img: 'Model',size:'size to be'},
       { id: 4, title: 'Toyota', category: 'Toyota', img: 'Etios',size:'175/70R14'},
-      { id: 5, title: 'Hyundai', category: 'Hyundai', img: 'Model',size:'size to be'},
+      { id: 5, title: 'Tata', category: 'Tata', img: 'Model',size:'195/60R16'},
       { id: 6, title: 'Suzuki', category: 'Suzuki', img: 'Model',size:'size to be'},
       { id: 7, title: 'Volkswagen', category: 'Volkswagen', img: 'Model',size:'size to be'},
       { id: 8, title: 'Mahindra', category: 'Mahindra', img: 'Model',size:'size to be'},
@@ -77,12 +77,28 @@ var store = new Vue({
       { id: 46, title: 'Hyundai', category: 'Hyundai', img: 'ELANTRA',size:'205/60R16'},
       { id: 47, title: 'Hyundai', category: 'Hyundai', img: 'GRAND I10 NIOS',size:'175/60R15'},
       { id: 48, title: 'Hyundai', category: 'Hyundai', img: 'I20 N-LINE',size:'195/55R16'},
-      { id: 49, title: 'Tata', category: 'Tata', img: 'NEXON',size:'195/60R16'},
+      { id: 49, title: 'Tata', category: 'Tata', img: 'PUNCH',size:'195/60R16'},
       { id: 50, title: 'Tata', category: 'Tata', img: 'HARRIER',size:'235/60R17'},
       { id: 51, title: 'Tata', category: 'Tata', img: 'ALTROZ',size:'195/55R16'},
       { id: 52, title: 'Tata', category: 'Tata', img: 'TIAGO',size:'175/60R15'},
       { id: 53, title: 'Tata', category: 'Tata', img: 'SAFARI',size:'235/70R16'},
-      { id: 54, title: 'Tata', category: 'Tata', img: 'TIGOR',size:'175/60R15'}
+      { id: 54, title: 'Tata', category: 'Tata', img: 'TIGOR',size:'175/60R15'},
+      { id: 55, title: 'Tata', category: 'Tata', img: 'TIGOR EV',size:'175/65R14'},
+      { id: 56, title: 'Tata', category: 'Tata', img: 'TIGOR',size:'175/60R15'},
+      { id: 57, title: 'Tata', category: 'Tata', img: 'NEXON',size:'195/60R16'},
+      { id: 58, title: 'Tata', category: 'Tata', img: 'NEXON EV',size:'215/60R16'},
+      { id: 59, title: 'Audi', category: 'Audi', img: 'Q2',size:'235/55R19'},
+      { id: 60, title: 'Audi', category: 'Audi', img: 'Q5',size:'235/65R17'},
+      { id: 61, title: 'Audi', category: 'Audi', img: 'A6',size:'245/45R18'},
+      { id: 62, title: 'Audi', category: 'Audi', img: 'A8',size:'235/55R18'},
+      { id: 63, title: 'Audi', category: 'Audi', img: 'Q8',size:'275/50R20'},
+      { id: 64, title: 'Audi', category: 'Audi', img: 'E-TRON GT',size:'245/45R20, 225/55R19'},
+      { id: 65, title: 'Audi', category: 'Audi', img: 'RS7',size:'275/35R20'},
+      { id: 66, title: 'Audi', category: 'Audi', img: 'S5',size:'245/40R18'},
+      { id: 67, title: 'Audi', category: 'Audi', img: 'Q5',size:'235/65R17'}
+      
+      
+      
       
       
       

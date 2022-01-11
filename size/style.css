@@ -49,10 +49,14 @@ ul{
   width: 25%;
   text-align: center;
   font-weight: bold;
+  border: 1px solid #0000004a;
 }
 #store #products .product-card .img {
-  font-size: 2.5em;
+  font-size: 2.5em; 
   padding: 0.5em 0;
+}
+#store #products .product-card .title {
+  color: rgba(0, 0, 0, 0.692);
 }
 #store #products .product-card:hover {
   cursor: pointer;
@@ -98,10 +102,11 @@ ul{
 
 @media only screen and (max-width: 600px) {
   #store #products .product-card .img {
-    font-size: 1.2rem;
+    font-size: 1rem;
     padding: 0.5em 0;
+    color: black;
   }
-  
+
   .new{
     font-size: 0.6rem;
   }

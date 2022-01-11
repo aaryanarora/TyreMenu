@@ -10,6 +10,9 @@ body {
 	display: inline;
 	font-family: Arial, Helvetica, sans-serif;
 }
+.coninfo{
+	float: right;
+}
 .logo{
 	height: 17rem;
 	width: 13rem;
@@ -18,6 +21,17 @@ body {
 	align-items: center;
 
 }
+.btn{
+
+	background-color: #000000ad;
+	color: white;
+	border: 2px solid #000000ad;
+}
+.btn:hover{
+
+	background-color: white;
+	color: black;
+}
 .pp{
 	height: 19rem;
 	width: 13rem;
@@ -25,13 +39,17 @@ body {
 a{
 	text-decoration: none;
 	margin-left:0.5rem;
+	margin-bottom: 1rem;
 }
 .con{
 	font-size: 2rem;
 	font-family: Arial, Helvetica, sans-serif;
-	padding-top: 1rem;
+}
+h4{
+	margin-top: 0;
 }
 .product {
+	margin-top: 2rem;
 	margin-bottom: 30px;
 }
 .product-inner {
@@ -51,7 +69,7 @@ a{
 	}
 	.con{
 		font-size: 1.5rem;
-		padding-top: 6.5rem;
+		
 		
 	}
 	.logo{
@@ -61,5 +79,8 @@ a{
 		margin-left: 14.5rem;
 		
 		
+	}
+	a{
+		margin-left:0;
 	}
   }

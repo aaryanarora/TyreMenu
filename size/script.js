@@ -31,7 +31,7 @@ var store = new Vue({
       { id: 0, title: 'Honda', category: 'Honda', img: 'Amaze', size: '175/65R15' },
       { id: 1, title: 'Audi', category: 'Audi', img: 'A4',size:'225/50R17'},
       { id: 2, title: 'Mercedes-Benz', category: 'Mercedes-Benz', img: 'A-CLASS',size:'205/55R16'},
-      { id: 3, title: 'BMW', category: 'BMW', img: 'Model',size:'size to be'},
+      { id: 3, title: 'BMW', category: 'BMW', img: 'X1',size:'225/40R18'},
       { id: 4, title: 'Toyota', category: 'Toyota', img: 'Etios',size:'175/70R14'},
       { id: 5, title: 'Tata', category: 'Tata', img: 'Model',size:'195/60R16'},
       { id: 6, title: 'Suzuki', category: 'Suzuki', img: 'Model',size:'size to be'},
@@ -103,7 +103,20 @@ var store = new Vue({
       { id: 72, title: 'Mercedes-Benz', category: 'Mercedes-Benz', img: 'GLS',size:'175/65R15'},
       { id: 73, title: 'Mercedes-Benz', category: 'Mercedes-Benz', img: 'S-CLASS',size:'175/65R15'},
       { id: 74, title: 'Mercedes-Benz', category: 'Mercedes-Benz', img: 'GLC',size:'175/65R15'},
-      { id: 75, title: 'Mercedes-Benz', category: 'Mercedes-Benz', img: 'GLE',size:'315/40R21'}
+      { id: 75, title: 'Mercedes-Benz', category: 'Mercedes-Benz', img: 'GLE',size:'315/40R21'},
+      { id: 76, title: 'BMW', category: 'BMW', img: '3 SERIES',size:'255/40R18'},
+      { id: 77, title: 'BMW', category: 'BMW', img: 'iX',size:'255/50R21'},
+      { id: 76, title: 'BMW', category: 'BMW', img: '2 SERIES GRAN COUPE',size:'225/45R17'},
+      { id: 77, title: 'BMW', category: 'BMW', img: 'X7',size:'275/50R20'},
+      { id: 78, title: 'BMW', category: 'BMW', img: 'Z4',size:'225/40R18'},
+      { id: 79, title: 'BMW', category: 'BMW', img: '5 SERIES',size:'245/45R18'},
+      { id: 80, title: 'BMW', category: 'BMW', img: 'X3',size:'245/50R18'},
+      { id: 81, title: 'BMW', category: 'BMW', img: '7 SERIES',size:'275/35R20'},
+      { id: 82, title: 'BMW', category: 'BMW', img: 'X5',size:'255/55R18'},
+      { id: 83, title: 'BMW', category: 'BMW', img: 'X4',size:'245/50R19'},
+      { id: 84, title: 'BMW', category: 'BMW', img: '6 SERIES GT',size:'245/50R18'}
+      
+      
       
       
       

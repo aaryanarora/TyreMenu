@@ -35,8 +35,8 @@ var store = new Vue({
       { id: 4, title: 'Toyota', category: 'Toyota', img: 'Etios',size:'175/70R14'},
       { id: 5, title: 'Tata', category: 'Tata', img: 'Model',size:'195/60R16'},
       { id: 6, title: 'Suzuki', category: 'Suzuki', img: 'Model',size:'size to be'},
-      { id: 7, title: 'Volkswagen', category: 'Volkswagen', img: 'Model',size:'size to be'},
-      { id: 8, title: 'Mahindra', category: 'Mahindra', img: 'Model',size:'size to be'},
+      { id: 7, title: 'Volkswagen', category: 'Volkswagen', img: 'TIGUAN',size:'235/55R18'},
+      { id: 8, title: 'Mahindra', category: 'Mahindra', img: 'XUV700',size:'235/65R17'},
       { id: 9, title: 'Honda', category: 'Honda', img: 'CR-V',size:'225/65R17'},
       { id: 10, title: 'Honda', category: 'Honda', img: 'JAZZ',size:'175/65R15'},
       { id: 11, title: 'Honda', category: 'Honda', img: 'WR-V',size:'195/60R16'},
@@ -114,7 +114,20 @@ var store = new Vue({
       { id: 81, title: 'BMW', category: 'BMW', img: '7 SERIES',size:'275/35R20'},
       { id: 82, title: 'BMW', category: 'BMW', img: 'X5',size:'255/55R18'},
       { id: 83, title: 'BMW', category: 'BMW', img: 'X4',size:'245/50R19'},
-      { id: 84, title: 'BMW', category: 'BMW', img: '6 SERIES GT',size:'245/50R18'}
+      { id: 84, title: 'BMW', category: 'BMW', img: '6 SERIES GT',size:'245/50R18'},
+      { id: 85, title: 'Volkswagen', category: 'Volkswagen', img: 'POLO',size:'195/55R16'},
+      { id: 86, title: 'Volkswagen', category: 'Volkswagen', img: 'TAIGUN',size:'205/55R17'},
+      { id: 87, title: 'Volkswagen', category: 'Volkswagen', img: 'VENTO',size:'185/60R15'},
+      { id: 88, title: 'Volkswagen', category: 'Volkswagen', img: 'AMEO',size:'195/55R16'},
+      { id: 89, title: 'Mahindra', category: 'Mahindra', img: 'XUV300',size:'205/65R16'},
+      { id: 90, title: 'Mahindra', category: 'Mahindra', img: 'THAR',size:'255/65R18'},
+      { id: 91, title: 'Mahindra', category: 'Mahindra', img: 'SCORPIO',size:'235/70R16'},
+      { id: 92, title: 'Mahindra', category: 'Mahindra', img: 'BOLERO NEO',size:'215/75R15'},
+      { id: 93, title: 'Mahindra', category: 'Mahindra', img: 'BOLERO',size:'185/85R16'},
+      { id: 94, title: 'Mahindra', category: 'Mahindra', img: 'MARAZZO',size:'215/60R16'},
+      { id: 95, title: 'Mahindra', category: 'Mahindra', img: 'KUV100 NXT',size:'185/60R15'},
+      { id: 96, title: 'Mahindra', category: 'Mahindra', img: 'ALTURAS G4',size:'255/60R18'}
+      
       
       
       

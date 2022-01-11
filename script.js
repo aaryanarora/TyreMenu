@@ -747,13 +747,6 @@ var data = [
 		"Model": "P_ZERO PZ4 (MO)",
 		"price": "NONE",
 		"image": "images/315-40-21_PIR.jpeg"
-	},
-	{
-		"Size": "D",
-		"Brand": "d",
-		"Model": "d",
-		"price": "NONE",
-		"image": "images/.jpeg"
 	}
 	
 ];

@@ -364,6 +364,13 @@ var data = [
 		"image": "images/245-45-17_MIC.jpeg"
 	},
 	{
+		"Size": "245/45R17",
+		"Brand": "ACCELERA",
+		"Model": "PHI",
+		"price": "NONE",
+		"image": "images/245-45-17_ACC.jpeg"
+	},
+	{
 		"Size": "265/65R17",
 		"Brand": "PIRELLI",
 		"Model": "S-ATR",
@@ -418,6 +425,13 @@ var data = [
 		"Model": "ZIEX ZE912",
 		"price": "NONE",
 		"image": "images/225-50-18_FALK.jpeg"
+	},
+	{
+		"Size": "225/50R18",
+		"Brand": "ACCELERA",
+		"Model": "PHI-R",
+		"price": "NONE",
+		"image": "images/225-50-18_ACC.jpeg"
 	},
 	{
 		"Size": "225/55R18",
@@ -551,6 +565,13 @@ var data = [
 		"Model": "IOTA-ST68",
 		"price": "NONE",
 		"image": "images/265-60-18_ACC.jpeg"
+	},
+	{
+		"Size": "265/60R18",
+		"Brand": "MRF",
+		"Model": "WANDERER",
+		"price": "NONE",
+		"image": "images/265-60-18_MRF.jpeg"
 	},
 	{
 		"Size": "285/60R18",

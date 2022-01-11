@@ -126,8 +126,15 @@ var store = new Vue({
       { id: 93, title: 'Mahindra', category: 'Mahindra', img: 'BOLERO',size:'185/85R16'},
       { id: 94, title: 'Mahindra', category: 'Mahindra', img: 'MARAZZO',size:'215/60R16'},
       { id: 95, title: 'Mahindra', category: 'Mahindra', img: 'KUV100 NXT',size:'185/60R15'},
-      { id: 96, title: 'Mahindra', category: 'Mahindra', img: 'ALTURAS G4',size:'255/60R18'}
-      
+      { id: 96, title: 'Mahindra', category: 'Mahindra', img: 'ALTURAS G4',size:'255/60R18'},
+      { id: 97, title: 'MG', category: 'MG', img: 'ASTOR',size:'215/55R17'},
+      { id: 98, title: 'MG', category: 'MG', img: 'HECTOR',size:'215/60R17, 215/55R18'},
+      { id: 99, title: 'MG', category: 'MG', img: 'HECTOR PLUS',size:'215/60R17'},
+      { id: 100, title: 'MG', category: 'MG', img: 'GLOSTER',size:'255/55R19'},
+      { id: 101, title: 'MG', category: 'MG', img: 'ZS EV',size:'215/50R17'},
+      { id: 102, title: 'Kia', category: 'Kia', img: 'SELTOS',size:'205/65R16'},
+      { id: 103, title: 'Kia', category: 'Kia', img: 'SONET',size:'195/65R15'},
+      { id: 104, title: 'Kia', category: 'Kia', img: 'CARNIVAL',size:'235/60R18'}
       
       
       

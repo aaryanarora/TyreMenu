@@ -95,7 +95,7 @@ var data = [
 		"Brand": "YOKOHAMA",
 		"Model": "S-DRIVE",
 		"price": "NONE",
-		"image": "images/195-55-16_YOKO.jpeg"
+		"image": "images/195-55-16_YOKOS.jpeg"
 	},
 	{
 		"Size": "195/55R16",
